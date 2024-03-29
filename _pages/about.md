@@ -33,14 +33,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADHD Detection</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Potential Biomarker for Early Detection of ADHD Using Phase-Based Brain Connectivity and Graph Theory](https://doi.org/10.1007/s13246-023-01310-y)
+
+**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*, Yeganeh Modaresnia.
+
+- This research investigates an efficient strategy for early detection and intervention of attention-deficit hyperactivity disorder (ADHD) in children. ADHD is a neurodevelopmental condition characterized by inattention and hyperactivity/impulsivity symptoms, which can significantly impact a child’s daily life. This study employed two distinct brain functional connectivity measurements to assess our approach across various local graph features. Six common classifiers are employed to distinguish between children with ADHD and healthy control. Based on the phase-based analysis, the study proposes two biomarkers that differentiate children with ADHD from healthy control, with a remarkable accuracy of 99.174%. Our findings suggest that subgraph centrality of phase-lag index brain connectivity within the beta and delta frequency bands could be a promising biomarker for ADHD diagnosis. Additionally, we identify node betweenness centrality of inter-site phase clustering connectivity within the delta and theta bands as another potential biomarker that warrants further exploration. These biomarkers were validated using a t-statistical test and yielded a p-value of under 0.05, which approved their significant difference in these two groups. Suggested biomarkers have the potential to improve the accuracy of ADHD diagnosis and could help identify effective intervention strategies for children with the condition.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Parkinson's Disease Detection</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Parkinson’s Disease Severity Assessment through Voice-Based Wavelet Scattering, Optimized Model Selection, and Weighted Majority Voting](https://doi.org/10.1016/j.medntd.2023.100266)
 
-**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini, Elham Ahmadi Moghadam.
+**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*, Elham Ahmadi Moghadam.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rAgss7MAAAAJ&citation_for_view=rAgss7MAAAAJ:dhFuZR0502QC) <strong><span class='show_paper_citations' data='rAgss7MAAAAJ:dhFuZR0502QC'></span></strong>
 - Voice impairments show promise as an early indicator of Parkinson's disease (PD). 
 - Voice activity detection, wavelet transform and tuned models improve PD classification. 
 - Weighted majority voting achieves 98.62% accuracy in PD severity detection. 
