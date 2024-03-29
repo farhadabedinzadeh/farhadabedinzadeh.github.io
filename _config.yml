@@ -4,11 +4,11 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-# "RayeRen/acad-homepage.github.io"
+
 # Site Settings
-title                    : "Farhad's Homepage"
+title                    : "Farhad's HomePage"
 description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : 
+repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Farhad Abedinzadeh"
-  avatar           : "images\profile2.png"
-  bio              : "A Neuroscience Researcher"
+  avatar           : "images/profile2.png"
+  bio              : "A Neuroscience Researcher🔎🧠"
   location         : "Mashhad, Iran"
   employer         :
   pubmed           : 
