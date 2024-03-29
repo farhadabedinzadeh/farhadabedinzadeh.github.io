@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Passionate about improving lives through biomedical engineering, I chose this field to fulfill my lifelong desire to help others. As a Senior Biomedical Engineer focusing on programming, I have successfully completed numerous freelance projects over the past three years. My expertise lies in data analysis, image processing, and signal processing, complemented by a deep understanding of programming languages such as Python and MATLAB.
+One of my fundamental interests is leveraging programming to develop advanced diagnosis and prediction systems for various diseases. I aim to create innovative solutions to enhance patient care and outcomes by harnessing my data analysis and signal processing skills.
+In addition to my technical capabilities, I have a solid technological background and excel in developing computer-aided design systems for biomedical engineering applications. By combining signal processing techniques with machine learning algorithms, I have successfully contributed to advancing this field.
+What truly excites me is the realm of Deep Learning. Its potential to revolutionize healthcare and improve patient outcomes is immense. I am constantly driven to expand my knowledge and expertise in this domain, actively seeking further opportunities to develop my skills.
+I firmly believe consistency is the key to success throughout my journey. I have achieved significant milestones in my career by maintaining a steadfast approach and consistently delivering high-quality results.
+To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=rAgss7MAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='hhttps://scholar.google.com/citations?user=rAgss7MAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -28,15 +33,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Enhancing Parkinson’s Disease Severity Assessment through Voice-Based Wavelet Scattering, Optimized Model Selection, and Weighted Majority Voting](https://doi.org/10.1016/j.medntd.2023.100266)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini, Elham Ahmadi Moghadam.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rAgss7MAAAAJ&citation_for_view=rAgss7MAAAAJ:dhFuZR0502QC) <strong><span class='show_paper_citations' data='rAgss7MAAAAJ:dhFuZR0502QC'></span></strong>
+- Voice impairments show promise as an early indicator of Parkinson's disease (PD). 
+- Voice activity detection, wavelet transform and tuned models improve PD classification. 
+- Weighted majority voting achieves 98.62% accuracy in PD severity detection. 
+
 </div>
 </div>
 
