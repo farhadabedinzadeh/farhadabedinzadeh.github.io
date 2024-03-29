@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical & Biological Engineering & Computing 2023</div><img src='images/Publications/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical & Biological Engineering & Computing 2023</div><img src='images/Publications/NewASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation of Electroencephalography Signals](https://doi.org/10.1007/s11517-023-02959-z)
