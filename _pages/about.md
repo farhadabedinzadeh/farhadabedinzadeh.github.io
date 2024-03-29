@@ -46,6 +46,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical & Biological Engineering & Computing 2023</div><img src='images/Publications/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation of Electroencephalography Signals](https://doi.org/10.1007/s11517-023-02959-z)
+
+**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Mohammad Hossein Moattar*.
+
+- Early diagnosis of autism spectrum disorder (ASD) plays an important role in the rehabilitation of the patient. This goal necessitates higher-level pattern representation and a strong modeling approach. The proposed approach applies scalogram images of electroencephalography signals for the first purpose and a two-level deep learning architecture for better classification. Scalogram images embed both the temporal and spectral information of the signal. On the other hand, the hybrid deep learning hierarchy of convolutional neural network followed by long short-term memory models both spatial and temporal information of the scalogram image. The approach is evaluated on a dataset of 34 ASD samples and 11 normal cases in without-voice and with-voice conditions. To validate the early diagnosis hypothesis, signals from children older than 5 years are used as the training set, and signals from younger subjects are used as the validation set. The proposed method achieves excellent performance of 99.50% and 98.43% for automatically detecting ASD with and without voice, respectively. This classification performance is higher than most recent reported approaches, and the results show the effectiveness of the approach in early diagnosis of ASD and demonstrate the auditory impact on the diagnosis of autism.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Parkinson's Disease Detection</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
