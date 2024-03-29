@@ -24,11 +24,6 @@ What truly excites me is the realm of Deep Learning. Its potential to revolution
 I firmly believe consistency is the key to success throughout my journey. I have achieved significant milestones in my career by maintaining a steadfast approach and consistently delivering high-quality results.
 To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=rAgss7MAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='hhttps://scholar.google.com/citations?user=rAgss7MAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -127,16 +122,25 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Islamic Azad University of Mashhad, Mashhad, Iran*, Ranked 2nd Among All Master Students of Biomedical Engineering, Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran.
+- *One Thousand Technological Ideas Tournament, Islamic Azad University of Mashhad, Mashhad, Iran*, Selected as a Finalist Among 100 Teams for Introducing the Concept of an Intelligent Ring for Epileptic Seizure Prediction Using HRV Signal.
+- *Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran*, Member of Biomedical Engineering Scientific Association.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Jan 2021 - Aug 2023*, Master, Mashhad Branch, Islamic Azad University, Mashhad, Iran. M.Sc. of Biomedical Engineering, Sports Engineering. GPA: **17.40/20**.
+- *Sep 2015 - Sep 2020*, Undergraduate, Sadjad University of Technology, Mashhad, Iran. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Research Experience
+``Academic Peer Reviewer``
+- *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
+- *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
+- *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
+- *Feb 2023 - Now*, Journal of Biomedical Signal Processing and Control, Elsevier.
+``Undergraduate Research Assistan``
+- *Oct 2021 - Now*, Under Assoc.Prof.Seyyed Abed Hosseini at the Islamic Azad University, Mashhad, Iran.
+- Currently Working With on Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
 
-# 💻 Internships
+
+# 💻 Professional and Academic Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
