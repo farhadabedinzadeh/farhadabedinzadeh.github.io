@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADHD Detection</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical and Engineering Sciences in Medicine, 2023</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Potential Biomarker for Early Detection of ADHD Using Phase-Based Brain Connectivity and Graph Theory](https://doi.org/10.1007/s13246-023-01310-y)
@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical & Biological Engineering & Computing 2023</div><img src='images/Publications/NewASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical & Biological Engineering & Computing, 2023</div><img src='images/Publications/NewASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation of Electroencephalography Signals](https://doi.org/10.1007/s11517-023-02959-z)
@@ -58,21 +58,74 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Parkinson's Disease Detection</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medicine in Novel Technology and Devices, 2023</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Parkinson’s Disease Severity Assessment through Voice-Based Wavelet Scattering, Optimized Model Selection, and Weighted Majority Voting](https://doi.org/10.1016/j.medntd.2023.100266)
 
 **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*, Elham Ahmadi Moghadam.
 
-- Voice impairments show promise as an early indicator of Parkinson's disease (PD). 
-- Voice activity detection, wavelet transform and tuned models improve PD classification. 
-- Weighted majority voting achieves 98.62% accuracy in PD severity detection. 
+- Parkinson's disease (PD) is a neurodegenerative disorder characterized by motor and non-motor symptoms that significantly impact an individual's quality of life. Voice changes have shown promise as early indicators of PD, making voice analysis a valuable tool for early detection and intervention. This study aims to assess and detect the severity of PD through voice analysis using the mobile device voice recordings dataset. The dataset consisted of recordings from PD patients at different stages of the disease and healthy control subjects. A novel approach was employed, incorporating a voice activity detection algorithm for speech segmentation and the wavelet scattering transform for feature extraction. A Bayesian optimization technique is used to fine-tune the hyperparameters of seven commonly used classifiers and optimize the performance of machine learning classifiers for PD severity detection. AdaBoost and K-nearest neighbor consistently demonstrated superior performance across various evaluation metrics among the classifiers. Furthermore, a weighted majority voting (WMV) technique is implemented, leveraging the predictions of multiple models to achieve a near-perfect accuracy of 98.62%, improving classification accuracy. The results highlight the promising potential of voice analysis in PD diagnosis and monitoring. Integrating advanced signal processing techniques and machine learning models provides reliable and accessible tools for PD assessment, facilitating early intervention and improving patient outcomes. This study contributes to the field by demonstrating the effectiveness of the proposed methodology and the significant role of WMV in enhancing classification accuracy for PD severity detection.
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Clinical Neuroscience, 2023</div><img src='images/Publications/CNN-ADHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEG-Based Effective Connectivity Analysis for ADHD Detection Using Color-Coded Granger-Causality Images and Custom Convolutional Neural Network](https://doi.org/10.34172/icnj.2023.12)
+
+**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
+
+- Attention deficit hyperactivity disorder (ADHD) is prevalent worldwide, affecting approximately 8-12% of children. Early detection and effective treatment of ADHD are crucial for improving academic, social, and emotional outcomes. Despite numerous studies on ADHD detection, existing models still lack accuracy distinguishing between ADHD and healthy control (HC) children. This study introduces an innovative methodology that utilizes granger causality (GC), a well-established brain connectivity analysis technique, to reduce the required EEG electrodes. We computed GC indexes (GCI) for the entire brain and specific brain regions, known as regional GCI, across different frequency bands. Subsequently, these GCIs were transformed into color-coded images and fed into a custom-developed 11-layer convolutional neural network. The proposed model is evaluated through a five-fold cross-validation, achieving the highest accuracy of 99.80% in the gamma frequency band for the entire brain and an accuracy of 98.50% in distinguishing the theta frequency band of the right hemisphere of ADHD and HC children by only using eight electrodes. The proposed framework provides a powerful automated tool for accurately classifying ADHD and HC children. The study’s outcome demonstrates that the innovative proposed methodology utilizing GCI and a custom-developed convolutional neural network can significantly improve ADHD detection accuracy, improving affected children’s overall quality of life.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Clinical Neuroscience, 2023</div><img src='images/Publications/CNN-ADHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEG-Based Effective Connectivity Analysis for ADHD Detection Using Color-Coded Granger-Causality Images and Custom Convolutional Neural Network](https://doi.org/10.34172/icnj.2023.12)
+
+**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
+
+- Attention deficit hyperactivity disorder (ADHD) is prevalent worldwide, affecting approximately 8-12% of children. Early detection and effective treatment of ADHD are crucial for improving academic, social, and emotional outcomes. Despite numerous studies on ADHD detection, existing models still lack accuracy distinguishing between ADHD and healthy control (HC) children. This study introduces an innovative methodology that utilizes granger causality (GC), a well-established brain connectivity analysis technique, to reduce the required EEG electrodes. We computed GC indexes (GCI) for the entire brain and specific brain regions, known as regional GCI, across different frequency bands. Subsequently, these GCIs were transformed into color-coded images and fed into a custom-developed 11-layer convolutional neural network. The proposed model is evaluated through a five-fold cross-validation, achieving the highest accuracy of 99.80% in the gamma frequency band for the entire brain and an accuracy of 98.50% in distinguishing the theta frequency band of the right hemisphere of ADHD and HC children by only using eight electrodes. The proposed framework provides a powerful automated tool for accurately classifying ADHD and HC children. The study’s outcome demonstrates that the innovative proposed methodology utilizing GCI and a custom-developed convolutional neural network can significantly improve ADHD detection accuracy, improving affected children’s overall quality of life.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications, 2024</div><img src='images/Publications/Diabetes.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEG-Based Effective Connectivity Analysis for ADHD Detection Using Color-Coded Granger-Causality Images and Custom Convolutional Neural Network](https://doi.org/10.34172/icnj.2023.12)
+
+Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
+
+- Diabetes retinopathy (DR) is the primary cause of blindness worldwide. Computer-aided diagnosis methods for early detection of DR fundus images are time and effort-saving and have a low risk of a misdiagnosis compared with a manual diagnosis of DR by clinical experts and ophthalmologists. Recently, transfer learning strategies of pre-trained models have been increasingly employed in medical image detection as a deep learning technique, and they effectively speed up the training phase. However, the effect of image enhancement and hyper-parameter tuning in DR detection was not reported in the literature. Furthermore, conventional transfer learning strategies, while widely employed, have exhibited limitations in achieving high accuracies in this context. Here, we employed the publicly available APTOS dataset for training models. Three different image enhancement techniques, including contrast enhancement, color constancy, and contrast-limited adaptive histogram equalization (CLAHE), are used on DR and its severity detection. Bayesian optimization method was employed for hyper-parameter tuning. Three different pre-trained convolutional neural networks, namely AlexNet, GoogLeNet, and SqueezeNet, are investigated on the binary and multi-classification of DR fundus images. The AlexNet model with tuned training hyper-parameters showed an accuracy of 99.10% for multi-classification of DR. The modified AlexNet + genetic algorithm and tuned hyper-parameters model achieved an impressive accuracy of 99.81% in the same multi-level classification of DR severity. The CLAHE enhancement technique outperforms other techniques in these approaches. The reliable performance of the proposed method would enhance the rapid and robust detection of DR utilizing fundus images to intervene effectively before vision loss occurs.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medicine in Novel Technology and Devices, 2024</div><img src='images/Publications/PD_Severity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Efficient Tool for Parkinson’s Disease Detection and Severity Grading Based on Time-Frequency and Fuzzy Features of Cumulative Gait Signals through Improved LSTM Networks](https://www.sciencedirect.com/science/article/pii/S2590093524000134)
+
+**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
+
+- Parkinson's disease (PD) is a widespread neurodegenerative condition that affects many individuals annually. Early identification and monitoring of disease progression are crucial to effectively managing symptoms and preventing motor complications. This research proposes an automated PD diagnosis and severity-grading model based on time-frequency and fuzzy features using improved uni-directional and bi-directional long short-term memory networks with sensitive hyperparameters optimization. We utilize vertical ground reaction force signals collected from Physionet's publicly available dataset recorded during regular and dual-task clinical trials of walking measurements. Only the cumulative signal of both feet was then utilized and segmented into 30-s windows without further pre-processing. Subsequently, we extracted only four key time-frequency and fuzzy features from each segment, effectively capturing the signal's inherent uncertainty. Bayesian optimization is employed in both detection and grading approaches to fine-tune the two critical hyperparameters: the initial learning rate and the number of hidden units in the network. The detection phase yields an exceptional accuracy of 99.19%, surpassing state-of-the-art studies with the same dataset. In the grading phase, classification based on the unified PD rating scale values achieves an accuracy of 92.28%. The proposed study delves into the potential of cumulative gait signals as a powerful diagnostic tool for PD, aiming to extract precise and intricate information by implementing straightforward and minimal processing endeavors. This method demonstrates significant efficiency in terms of complexity, cost, and energy consumption by utilizing a single-dimensional signal, eliminating the need for pre-processing steps, and limiting the features used for training.
+
+</div>
+</div>
+
+- ``Biomedical Engineering: Applications, Basis and Communications. 2024`` [Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16](https://doi.org/10.4015/S1016237223500060), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, MOhammad Mahdi Khalilzadeh*.
+- ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images](https://doi.org/10.1109/ICCKE60553.2023.10326246), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
+- ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and Bagging Trees](https://doi.org/10.1109/ICCKE60553.2023.10326290), Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
+- ``Iranian Journal of Medical Physics. 2023`` [Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach](https://doi.org/10.22038/ijmp.2023.73972.2313), **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
