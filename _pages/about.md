@@ -64,18 +64,6 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Clinical Neuroscience, 2023</div><img src='images/Publications/CNN-ADHD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EEG-Based Effective Connectivity Analysis for ADHD Detection Using Color-Coded Granger-Causality Images and Custom Convolutional Neural Network](https://doi.org/10.34172/icnj.2023.12)
-
-**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
-
-- Attention deficit hyperactivity disorder (ADHD) is prevalent worldwide, affecting approximately 8-12% of children. Early detection and effective treatment of ADHD are crucial for improving academic, social, and emotional outcomes. Despite numerous studies on ADHD detection, existing models still lack accuracy distinguishing between ADHD and healthy control (HC) children. This study introduces an innovative methodology that utilizes granger causality (GC), a well-established brain connectivity analysis technique, to reduce the required EEG electrodes. We computed GC indexes (GCI) for the entire brain and specific brain regions, known as regional GCI, across different frequency bands. Subsequently, these GCIs were transformed into color-coded images and fed into a custom-developed 11-layer convolutional neural network. The proposed model is evaluated through a five-fold cross-validation, achieving the highest accuracy of 99.80% in the gamma frequency band for the entire brain and an accuracy of 98.50% in distinguishing the theta frequency band of the right hemisphere of ADHD and HC children by only using eight electrodes. The proposed framework provides a powerful automated tool for accurately classifying ADHD and HC children. The study’s outcome demonstrates that the innovative proposed methodology utilizing GCI and a custom-developed convolutional neural network can significantly improve ADHD detection accuracy, improving affected children’s overall quality of life.
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Clinical Neuroscience, 2023</div><img src='images/Publications/CNN-ADHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,7 +81,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications, 2024</div><img src='images/Publications/Diabetes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EEG-Based Effective Connectivity Analysis for ADHD Detection Using Color-Coded Granger-Causality Images and Custom Convolutional Neural Network](https://doi.org/10.34172/icnj.2023.12)
+[Enhancing Multi-class Diabetic Retinopathy Detection Using Tuned Hyper-parameters and Modified Deep Transfer Learning](https://doi.org/10.1007/s11042-024-18506-3)
 
 Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
@@ -137,13 +125,13 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
 - *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
 - *Feb 2023 - Now*, Journal of Biomedical Signal Processing and Control, Elsevier.
--``Undergraduate Research Assistan``
+-<br>``Undergraduate Research Assistant``
 - *Oct 2021 - Now*, Under Assoc.Prof.Seyyed Abed Hosseini at the Islamic Azad University, Mashhad, Iran.
 - Currently Working With on Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
 
 # 💻 Professional and Academic Experience
 - *Jul 2022 - Oct 2022*, Instructor of  a Project-Oriented Course of Biomedical Image & Signal Processing Using MATLAB.
-- *Jan 2022 - Now*, Freelance Programmer (Using MATLAB & Python) and Research Supervisor, On-site, Remote and Hybrid, 
+- *Jan 2022 - Now*, Freelance Programmer (Using MATLAB & Python) and Research Supervisor, On-site, Remote and Hybrid.
 
 # 💻 CV
-- Download
+- [Download CV](files\cv\Farhad'sCV.pdf)
