@@ -10,13 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Passionate about improving lives through biomedical engineering, I chose this field to fulfill my lifelong desire to help others. As a Senior Biomedical Engineer focusing on programming, I have successfully completed numerous freelance projects over the past three years. My expertise lies in data analysis, image processing, and signal processing, complemented by a deep understanding of programming languages such as Python and MATLAB.
+<p style="text-align: justify;">Passionate about improving lives through biomedical engineering, I chose this field to fulfill my lifelong desire to help others. As a Senior Biomedical Engineer focusing on programming, I have successfully completed numerous freelance projects over the past three years. My expertise lies in data analysis, image processing, and signal processing, complemented by a deep understanding of programming languages such as Python and MATLAB.
 One of my fundamental interests is leveraging programming to develop advanced diagnosis and prediction systems for various diseases. I aim to create innovative solutions to enhance patient care and outcomes by harnessing my data analysis and signal processing skills.
 In addition to my technical capabilities, I have a solid technological background and excel in developing computer-aided design systems for biomedical engineering applications. By combining signal processing techniques with machine learning algorithms, I have successfully contributed to advancing this field.
 What truly excites me is the realm of Deep Learning. Its potential to revolutionize healthcare and improve patient outcomes is immense. I am constantly driven to expand my knowledge and expertise in this domain, actively seeking further opportunities to develop my skills.
 I firmly believe consistency is the key to success throughout my journey. I have achieved significant milestones in my career by maintaining a steadfast approach and consistently delivering high-quality results.
-To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.
-
+To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.</p>
 
 # 📝 Publications 
 
