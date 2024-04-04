@@ -15,7 +15,8 @@ One of my fundamental interests is leveraging programming to develop advanced di
 In addition to my technical capabilities, I have a solid technological background and excel in developing computer-aided design systems for biomedical engineering applications. By combining signal processing techniques with machine learning algorithms, I have successfully contributed to advancing this field.
 What truly excites me is the realm of Deep Learning. Its potential to revolutionize healthcare and improve patient outcomes is immense. I am constantly driven to expand my knowledge and expertise in this domain, actively seeking further opportunities to develop my skills.
 I firmly believe consistency is the key to success throughout my journey. I have achieved significant milestones in my career by maintaining a steadfast approach and consistently delivering high-quality results.
-To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.</p>
+To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.
+I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of Neuroscience and Brain Connectivity. Please feel free to contact me.</p>
 
 # 📝 Publications 
 
@@ -111,13 +112,13 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - *Jan 2021 - Aug 2023*, Master, Mashhad Branch, Islamic Azad University, Mashhad, Iran. M.Sc. of Biomedical Engineering, Sports Engineering. GPA: **17.40/20**.
 - *Sep 2015 - Sep 2020*, Undergraduate, Sadjad University of Technology, Mashhad, Iran. 
 
-# 🔎 Research Experience
-``Academic Peer Reviewer``
+# 🔎 Professional Service
+### Journal Reviewer
 - *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
 - *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
 - *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
 - *Feb 2023 - Now*, Journal of Biomedical Signal Processing and Control, Elsevier.
-<br>``Undergraduate Research Assistant``
+### Research Assistant
 - *Oct 2021 - Now*, Under Assoc.Prof.Seyyed Abed Hosseini at the Islamic Azad University, Mashhad, Iran.
 - Currently Working With on Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
 
