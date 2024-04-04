@@ -113,11 +113,13 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - *Sep 2015 - Sep 2020*, Undergraduate, Sadjad University of Technology, Mashhad, Iran. 
 
 # 🔎 Professional Service
+
 ### Journal Reviewer
 - *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
 - *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
 - *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
 - *Feb 2023 - Now*, Journal of Biomedical Signal Processing and Control, Elsevier.
+
 ### Research Assistant
 - *Oct 2021 - Now*, Under Assoc.Prof.Seyyed Abed Hosseini at the Islamic Azad University, Mashhad, Iran.
 - Currently Working With on Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
