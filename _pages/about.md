@@ -16,7 +16,7 @@ In addition to my technical capabilities, I have a solid technological backgroun
 What truly excites me is the realm of Deep Learning. Its potential to revolutionize healthcare and improve patient outcomes is immense. I am constantly driven to expand my knowledge and expertise in this domain, actively seeking further opportunities to develop my skills.
 I firmly believe consistency is the key to success throughout my journey. I have achieved significant milestones in my career by maintaining a steadfast approach and consistently delivering high-quality results.
 To further enrich my knowledge and acquire new experiences, I am now preparing to embark on a challenging and rewarding endeavor by pursuing a Ph.D. in Biomedical Engineering. This will enable me to delve deeper into research, contribute to cutting-edge advancements, and make a lasting impact.
-<br>I am also open for collaborations in research. I am also actively looking for collaborators, especially in the fields of Neuroscience and Brain Connectivity. Please feel free to contact me.</p>
+<br>I am also open to research collaborations and actively looking for collaborators, especially in neuroscience and brain connectivity. Please feel free to contact me.</p>
 
 # 📝 Publications 
 
