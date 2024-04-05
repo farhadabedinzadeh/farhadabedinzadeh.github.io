@@ -96,7 +96,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 </div>
 </div>
 
-- ``Biomedical Engineering: Applications, Basis and Communications. 2024`` [Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16](https://doi.org/10.4015/S1016237223500060), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, MOhammad Mahdi Khalilzadeh*.
+- ``Biomedical Engineering: Applications, Basis and Communications. 2024`` [Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16](https://doi.org/10.4015/S1016237223500060), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images](https://doi.org/10.1109/ICCKE60553.2023.10326246), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and Bagging Trees](https://doi.org/10.1109/ICCKE60553.2023.10326290), Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - ``Iranian Journal of Medical Physics. 2023`` [Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach](https://doi.org/10.22038/ijmp.2023.73972.2313), **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
