@@ -114,7 +114,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
 # 🔎 Professional Service
 
-### Journal Reviewer
+### Peer Reviewer
 - *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
 - *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
 - *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
