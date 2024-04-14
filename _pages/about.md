@@ -109,7 +109,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
 
 # 📖 Educations
-- *Jan 2021 - Aug 2023*, Master, Mashhad Branch, Islamic Azad University, Mashhad, Iran. M.Sc. of Biomedical Engineering, Sports Engineering. GPA: **17.40/20**.
+- *Jan 2021 - Aug 2023*, Master, Mashhad Branch, Islamic Azad University, Mashhad, Iran. M.Sc. of Biomedical Engineering.
 - *Sep 2015 - Sep 2020*, Undergraduate, Sadjad University of Technology, Mashhad, Iran. 
 
 # 🔎 Professional Service
@@ -130,3 +130,4 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
 # 📜 CV
 - [Download CV](files\cv\Farhad'sCV.pdf)
+
