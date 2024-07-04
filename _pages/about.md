@@ -101,32 +101,37 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and Bagging Trees](https://doi.org/10.1109/ICCKE60553.2023.10326290), Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - ``Iranian Journal of Medical Physics. 2023`` [Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach](https://doi.org/10.22038/ijmp.2023.73972.2313), **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
+# 📖 Education
+- *Jan 2021 - Aug 2023*, MS in Biomedical Engineering (Sports Engineering), Mashhad Branch, Islamic Azad University, Mashhad, Iran.
+- *Sep 2015 - Sep 2020*, BS in Biomedical Engineering, Sadjad University of Technology, Mashhad, Iran. 
 
-# 🏆 Honors and Awards
-- *Islamic Azad University of Mashhad, Mashhad, Iran*, Ranked 2nd Among All Master Students of Biomedical Engineering, Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran.
-- *One Thousand Technological Ideas Tournament, Islamic Azad University of Mashhad, Mashhad, Iran*, Selected as a Finalist Among 100 Teams for Introducing the Concept of an Intelligent Ring for Epileptic Seizure Prediction Using HRV Signal.
-- *Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran*, Member of Biomedical Engineering Scientific Association.
+# 💻 Professional Services and Academic Experience
 
+### Venture Capital Analyst of Medical Devices
+- *Feb 2024 - Now*, Junior Venture Capital Analyst of Medical Devices at Razavi HighTech Industries.
 
-# 📖 Educations
-- *Jan 2021 - Aug 2023*, Master, Mashhad Branch, Islamic Azad University, Mashhad, Iran. M.Sc. of Biomedical Engineering.
-- *Sep 2015 - Sep 2020*, Undergraduate, Sadjad University of Technology, Mashhad, Iran. 
-
-# 🔎 Professional Service
-
-### Peer Reviewer
-- *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
-- *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
-- *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
-- *Feb 2023 - Now*, Journal of Biomedical Signal Processing and Control, Elsevier.
+### Instructor
+- *May 2024*, Workshop of EEG Signal Processing, held by National Brain Mapping Laboratory.
+- *Jul 2022 - Oct 2022*, A Project-Oriented Course of Biomedical Image & Signal Processing Using MATLAB.
 
 ### Research Assistant
 - *Oct 2021 - Now*, Under Assoc.Prof.Seyyed Abed Hosseini at the Islamic Azad University, Mashhad, Iran.
 - Currently Working With on Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
 
-# 💻 Professional and Academic Experience
-- *Jul 2022 - Oct 2022*, Instructor of  a Project-Oriented Course of Biomedical Image & Signal Processing Using MATLAB.
-- *Jan 2022 - Now*, Freelance Programmer (Using MATLAB & Python) and Research Supervisor, On-site, Remote and Hybrid.
+### Academic Peer Reviewer
+- *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
+- *Sep 2023 - Now*, Journal of Computers in Biology and Medicine, Elsevier.
+- *Jun 2023 - Now*, Journal of Pattern Recognition Letters, Elsevier.
+- *Feb 2023 - Now*, Journal of Biomedical Signal Processing and Control, Elsevier.
+
+### Freelance Programmer | On-site, Remote and Hybrid
+- *Jan 2022 - Now*, Freelance Programmer (Python & MATLAB) and Research Supervisor.
+
+
+# 🏆 Honors and Awards
+- *Ranked 2nd among All Master Students of Biomedical Engineering*, Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran.
+- *Selected as a Finalist Among 100 Teams*, by Introducing the Concept of an Intelligent Ring for Epileptic Seizure Prediction using HRV Signal, One Thousand Technological Ideas Tournament, Islamic Azad University of Mashhad, Mashhad, Iran.
+- *Member of Biomedical Engineering Scientific Association*, Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran.
 
 # 📜 CV
 - [Download CV](files\cv\Farhad'sCV.pdf)

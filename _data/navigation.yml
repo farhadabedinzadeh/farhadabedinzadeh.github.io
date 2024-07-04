@@ -6,18 +6,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Education"
+    url: "/#-education"
+
+  - title: "Professional Services and Academic Experience"
+    url: "/#-professional-services-and-academic-experience"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Professional Service"
-    url: "/#-professional-service"
-
-  - title: "Professional and Academic Experience"
-    url: "/#-professional-and-academic-experience"
-
 
   - title: "CV"
     url: "/#-cv"
