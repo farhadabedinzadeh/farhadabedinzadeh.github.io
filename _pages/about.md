@@ -130,7 +130,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
 # 🏆 Honors and Awards
 - *Ranked 2nd among All Master Students of Biomedical Engineering*, Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran.
-- *Selected as a Finalist Among 100 Teams*, by Introducing the Concept of an Intelligent Ring for Epileptic Seizure Prediction using HRV Signal, One Thousand Technological Ideas Tournament, Islamic Azad University of Mashhad, Mashhad, Iran.
+- *Selected as a Finalist Among 100 Teams* by Introducing the Concept of an Intelligent Ring for Epileptic Seizure Prediction using HRV Signal, One Thousand Technological Ideas Tournament, Islamic Azad University of Mashhad, Mashhad, Iran.
 - *Member of Biomedical Engineering Scientific Association*, Department of Biomedical Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran.
 
 # 📜 CV
