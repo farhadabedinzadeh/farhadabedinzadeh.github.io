@@ -111,12 +111,12 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - *Feb 2024 - Now*, Junior Venture Capital Analyst of Medical Devices at Razavi HighTech Industries.
 
 ### Instructor
-- *May 2024*, Workshop of EEG Signal Processing, held by National Brain Mapping Laboratory.
-- *Jul 2022 - Oct 2022*, A Project-Oriented Course of Biomedical Image & Signal Processing Using MATLAB.
+- *May 2024*, Workshop of EEG Signal Processing, held by National Brain Mapping Laboratory. Ferdowsi University of Mashhad, Mashhad, Iran.
+- *Jul 2022 - Oct 2022*, A Project-Oriented Course of Biomedical Image & Signal Processing Using MATLAB. Mashhad Branch, Islamic Azad University, Mashhad, Iran.
 
 ### Research Assistant
 - *Oct 2021 - Now*, Under Assoc.Prof.Seyyed Abed Hosseini at the Islamic Azad University, Mashhad, Iran.
-- Currently Working With on Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
+- Currently Working Several Research Projects, Including “Analysing Brain Connectivity Using Multimodality Data on Various Neurological Diseases”.
 
 ### Academic Peer Reviewer
 - *Jan 2024 - Now*, Journal of Physical and Engineering Sciences in Medicine, Springer.
