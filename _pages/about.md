@@ -19,7 +19,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 <br>I am also open to research collaborations and actively looking for collaborators, especially in neuroscience and brain connectivity. Please feel free to contact me.</p>
 
 # 📝 Publications 
-
+## Published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical and Engineering Sciences in Medicine, 2023</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,11 +101,168 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and Bagging Trees](https://doi.org/10.1109/ICCKE60553.2023.10326290), Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - ``Iranian Journal of Medical Physics. 2023`` [Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach](https://doi.org/10.22038/ijmp.2023.73972.2313), **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 
+
+## Under Review
+<div class="slideshow-container">
+
+  <div class="mySlides fade">
+    <img src="C:\DriveD\My GitPage\farhadabedinzadeh.github.io\images\Publications\Under Review\DM.png" style="width:100%">
+    <div class="text">Paper Title 1</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/UnderReview/Paper2.png" style="width:100%">
+    <div class="text">Paper Title 2</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/UnderReview/Paper3.png" style="width:100%">
+    <div class="text">Paper Title 3</div>
+  </div>
+
+  <!-- Add more slides as needed -->
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <!-- Add more dots as needed -->
+</div>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+</style>
+
+
+
 # 📖 Education
 - *Jan 2021 - Aug 2023*, MS in Biomedical Engineering (Sports Engineering), Mashhad Branch, Islamic Azad University, Mashhad, Iran.
 - *Sep 2015 - Sep 2020*, BS in Biomedical Engineering, Sadjad University of Technology, Mashhad, Iran. 
 
-# 💻 Professional Services and Academic Experience
+# 💻 Professional and Academic Experience
 
 ### Venture Capital Analyst of Medical Devices
 - *Feb 2024 - Now*, Junior Venture Capital Analyst of Medical Devices at Razavi HighTech Industries.
