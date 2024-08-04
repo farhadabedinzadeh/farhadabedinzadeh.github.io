@@ -238,12 +238,10 @@ img {vertical-align: middle}
   color: #f2f2f2;
   font-size: 15px;
   padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.7); /* Background color with transparency */
   border-radius: 5px; /* Rounded corners */
+  margin-top: -10px; /* Adjust the margin as needed */
 }
 
 /* The dots/bullets/indicators */
