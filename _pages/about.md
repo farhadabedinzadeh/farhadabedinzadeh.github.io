@@ -106,7 +106,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <img src="C:\DriveD\My GitPage\farhadabedinzadeh.github.io\images\Publications\Under Review\DM.png" style="width:100%">
+    <img src="images\Publications\Under Review\DM.png" style="width:100%">
     <div class="text">Paper Title 1</div>
   </div>
 
