@@ -21,7 +21,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 # 📝 Publications 
 ## Published
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical and Engineering Sciences in Medicine, 2023</div><img src='images\Publications\CoherenceNuerodegenerative.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Gait and Posture, 2024</div><img src='images\Publications\CoherenceNuerodegenerative.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases]()
@@ -242,15 +242,8 @@ img {vertical-align: middle}
   bottom: 8px;
   width: 100%;
   text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
+  background-color: rgba(0, 0, 0, 0.7); /* Background color with transparency */
+  border-radius: 5px; /* Rounded corners */
 }
 
 /* The dots/bullets/indicators */
