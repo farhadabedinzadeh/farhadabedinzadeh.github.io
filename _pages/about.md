@@ -20,6 +20,20 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 
 # 📝 Publications 
 ## Published
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical and Engineering Sciences in Medicine, 2023</div><img src='images\Publications\CoherenceNuerodegenerative.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases]()
+
+**Farhad Abedinzadeh Torghabeh**, Elham Ahmadi Moghadam, Seyyed Abed Hosseini*.
+
+- <p style="text-align: justify;"> Neurodegenerative diseases (NDDs) pose significant challenges due to their debilitating nature and limited therapeutic options. Accurate and timely diagnosis is crucial for optimizing patient care and treatment strategies. Gait analysis, utilizing wearable sensors, has shown promise in assessing motor abnormalities associated with NDDs. This study evaluates the extent to which analyzing the interaction of both limbs in the time-frequency domain can serve as a suitable methodology for accurately classifying NDDs. Additionally, it determines the effectiveness of using color-coded images, in conjunction with deep transfer learning models, for the classification of NDDs. The GaitNDD database was used, comprising recordings from patients with Huntington’s disease, amyotrophic lateral sclerosis, Parkinson’s disease, and healthy controls. The gait signals underwent signal preparation, wavelet coherence analysis, and principal component analysis for feature enhancement. Deep transfer learning models (AlexNet, GoogLeNet, SqueezeNet) were employed for classification. Performance metrics, including accuracy, sensitivity, specificity, precision, and F1 score, were evaluated using 5-fold cross-validation. Our results showed that the models' classification performance varied depending on the time window used. For 5-second gait signal segments, AlexNet achieved an accuracy of 95.91%, while GoogLeNet and SqueezeNet achieved 96.49% and 92.73%, respectively. For 10-second segments, AlexNet outperformed other models with an accuracy of 99.20%, while GoogLeNet and SqueezeNet achieved 96.75% and 95.00%, respectively. Statistical tests confirmed the significance of the extracted features, indicating their discriminative power for classification. The proposed method demonstrated superior performance compared to previous studies, offering a non-invasive and cost-effective approach for the automated diagnosis of NDDs. By analyzing the interaction between both legs during walking using wavelet coherence and utilizing deep transfer learning models, accurate classification of NDDs was achieved.</p>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical and Engineering Sciences in Medicine, 2023</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,22 +120,40 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 <div class="slideshow-container">
 
   <div class="mySlides fade">
+    <img src="images\Publications\Under Review\ADHD2024.png" style="width:100%">
+    <div class="text">EEG-Based ADHD Detection Utilizing Fused Brain Connectivity and Attention-Based Convolutional Neural Network</div>
+  </div>
+
+  <div class="mySlides fade">
     <img src="images\Publications\Under Review\DM.png" style="width:100%">
-    <div class="text">Paper Title 1</div>
+    <div class="text">Enhanced Diabetes Detection through Biochemical Markers and Fasting Lipid Profiles: A Machine Learning Approach</div>
   </div>
 
   <div class="mySlides fade">
-    <img src="images/UnderReview/Paper2.png" style="width:100%">
-    <div class="text">Paper Title 2</div>
+    <img src="images\Publications\Under Review\CrudeOil.png" style="width:100%">
+    <div class="text">Crude Oil Price Forecasting Using K-means Clustering and LSTM Model Enhanced by Dense-Sparse-Dense Strategy</div>
   </div>
 
   <div class="mySlides fade">
-    <img src="images/UnderReview/Paper3.png" style="width:100%">
-    <div class="text">Paper Title 3</div>
+    <img src="images\Publications\Under Review\PD2024.png" style="width:100%">
+    <div class="text">Parkinson’s Disease Detection via Source Density Enhanced Functional Connectivity Vectors and Genetic Algorithm-based Paired Node Selection</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <img src="images\Publications\Under Review\FoG.png" style="width:100%">
+    <div class="text">Detection of Freezing of Gait in Parkinson’s Disease Using Multimodality Data and Custom-Designed Convolutional-LSTM Neural Network</div>
   </div>
 
-  <!-- Add more slides as needed -->
+  <div class="mySlides fade">
+    <img src="images\Publications\Under Review\Mental.png" style="width:100%">
+    <div class="text">A Pre-Processing Free Mental State Detection Model Suitable for Real-Time Applications</div>
+  </div>
 
+  <div class="mySlides fade">
+    <img src="images\Publications\Under Review\Neurodegenerative2023.png" style="width:100%">
+    <div class="text">A Deep Convertible Approach in Automated Diagnosis of Neurodegenerative Diseases Using Gait Signal</div>
+  </div>
+  
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
@@ -265,7 +297,7 @@ img {vertical-align: middle}
 # 💻 Professional and Academic Experience
 
 ### Venture Capital Analyst of Medical Devices
-- *Feb 2024 - Now*, Junior Venture Capital Analyst of Medical Devices at Razavi HighTech Industries.
+- *Feb 2024 - Now*, Venture Capital Analyst of Medical Devices at Razavi HighTech Industries.
 
 ### Instructor
 - *May 2024*, Workshop of EEG Signal Processing, held by National Brain Mapping Laboratory. Ferdowsi University of Mashhad, Mashhad, Iran.
