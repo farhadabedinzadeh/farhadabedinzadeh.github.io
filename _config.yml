@@ -9,13 +9,12 @@
 title                    : "Farhad's HomePage"
 description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : #"RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : False
+google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
+google_analytics_id      :  G-QN9SBPFBS4
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  TUR4mcI6uO5HdvP9TJch4RZgggk-FkKgXXq0wpC3NsE
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
