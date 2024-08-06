@@ -24,7 +24,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Gait and Posture, 2024</div><img src='images\Publications\CoherenceNuerodegenerative.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases]()
+[Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases](https://doi.org/10.1016/j.gaitpost.2024.07.302)
 
 **Farhad Abedinzadeh Torghabeh**, Elham Ahmadi Moghadam, Seyyed Abed Hosseini*.
 
