@@ -21,7 +21,33 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 # 📝 Publications 
 ## Published
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Gait and Posture, 2024</div><img src='images\Publications\CoherenceNuerodegenerative.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Neuroinformatics, 2024</div><img src='images\Publications\ADHD2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improved ADHD Diagnosis Using EEG Connectivity and Deep Learning through Combining Pearson Correlation Coefficient and Phase-Locking Value](https://link.springer.com/journal/12021)
+
+Elham Ahmadi Moghadam, **Farhad Abedinzadeh Torghabeh**, Mohammad Hossein Moattar*, Seyyed Abed Hosseini*.
+
+- <p style="text-align: justify;"> Attention Deficit Hyperactivity Disorder (ADHD) is a widespread neurobehavioral disorder affecting children and adolescents, requiring early detection for effective treatment. EEG connectivity measures can reveal the interdependencies between EEG recordings, highlighting brain network patterns and functional behavior that improve diagnostic accuracy. This study introduces a novel ADHD diagnostic method by combining linear and nonlinear brain connectivity maps with an attention-based convolutional neural network (Att-CNN). Pearson Correlation Coefficient (PCC) and Phase-Locking Value (PLV) are used to create fused connectivity maps (FCMs) from various EEG frequency subbands, which are then inputted into the Att-CNN. The attention module is strategically placed after the latest convolutional layer in the CNN. The performance of different optimizers (Adam and SGD) and learning rates are assessed. The suggested model obtained 98.88%, 98.41%, 98.19%, and 98.30% for accuracy, precision, recall, and F1 Score, respectively, using the SGD optimizer in the FCM of the theta band with a learning rate of 1e-1. With the use of FCM, Att-CNN, and advanced optimizers, the proposed technique has the potential to produce trustworthy instruments for the early diagnosis of ADHD, greatly enhancing both patient outcomes and diagnostic accuracy.</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Big Data, 2024</div><img src='images\Publications\CrudeOil.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Crude Oil Price Forecasting Using K-means Clustering and LSTM Model Enhanced by Dense-Sparse-Dense Strategy](https://doi.org/10.1186/s40537-024-00977-8)
+
+Alireza Jahandoost, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini, Mahboobeh Houshmand*.
+
+- <p style="text-align: justify;"> Crude oil is an essential energy source that affects international trade, transportation, and manufacturing, highlighting its importance to the economy. Its future price prediction affects consumer prices and the energy markets, and it shapes the development of sustainable energy. It is essential for financial planning, economic stability, and investment decisions. However, reaching a reliable future prediction is an open issue because of its high volatility. Furthermore, many state-of-the-art methods utilize signal decomposition techniques, which can lead to increased prediction time. In this paper, a model called K-means-dense-sparse-dense long short-term memory (K-means-DSD-LSTM) is proposed, which has three main training phrases for crude oil price forecasting. In the first phase, the DSD-LSTM model is trained. Afterwards, the training part of the data is clustered using the K-means algorithm. Finally, a copy of the trained DSD-LSTM model is fine-tuned for each obtained cluster. It helps the models predict that cluster better while they are generalizing the whole dataset quite well, which diminishes overfitting. The proposed model is evaluated on two famous crude oil benchmarks: West Texas Intermediate (WTI) and Brent. Empirical evaluations demonstrated the superiority of the DSD-LSTM model over the K-means-LSTM model. Furthermore, the K-means-DSD-LSTM model exhibited even stronger performance. Notably, the proposed method yielded promising results across diverse datasets, achieving competitive performance in comparison to existing methods, even without employing signal decomposition techniques.</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Gait and Posture, 2024</div><img src='images\Publications\CoherenceNuerodegenerative.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases](https://doi.org/10.1016/j.gaitpost.2024.07.302)
@@ -34,7 +60,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical and Engineering Sciences in Medicine, 2023</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Physical and Engineering Sciences in Medicine, 2023</div><img src='images/Publications/ADHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Potential Biomarker for Early Detection of ADHD Using Phase-Based Brain Connectivity and Graph Theory](https://doi.org/10.1007/s13246-023-01310-y)
@@ -47,7 +73,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical & Biological Engineering & Computing, 2023</div><img src='images/Publications/NewASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Medical & Biological Engineering & Computing, 2023</div><img src='images/Publications/NewASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation of Electroencephalography Signals](https://doi.org/10.1007/s11517-023-02959-z)
@@ -59,7 +85,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medicine in Novel Technology and Devices, 2023</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Medicine in Novel Technology and Devices, 2023</div><img src='images/Publications/VoicePD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Parkinson’s Disease Severity Assessment through Voice-Based Wavelet Scattering, Optimized Model Selection, and Weighted Majority Voting](https://doi.org/10.1016/j.medntd.2023.100266)
@@ -72,7 +98,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Clinical Neuroscience, 2023</div><img src='images/Publications/CNN-ADHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of International Clinical Neuroscience, 2023</div><img src='images/Publications/CNN-ADHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EEG-Based Effective Connectivity Analysis for ADHD Detection Using Color-Coded Granger-Causality Images and Custom Convolutional Neural Network](https://doi.org/10.34172/icnj.2023.12)
@@ -85,7 +111,7 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications, 2024</div><img src='images/Publications/Diabetes.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Multimedia Tools and Applications, 2024</div><img src='images/Publications/Diabetes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Multi-class Diabetic Retinopathy Detection Using Tuned Hyper-parameters and Modified Deep Transfer Learning](https://doi.org/10.1007/s11042-024-18506-3)
@@ -98,7 +124,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medicine in Novel Technology and Devices, 2024</div><img src='images/Publications/PD_Severity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Medicine in Novel Technology and Devices, 2024</div><img src='images/Publications/PD_Severity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Efficient Tool for Parkinson’s Disease Detection and Severity Grading Based on Time-Frequency and Fuzzy Features of Cumulative Gait Signals through Improved LSTM Networks](https://www.sciencedirect.com/science/article/pii/S2590093524000134)
@@ -110,7 +136,7 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 </div>
 </div>
 
-- ``Biomedical Engineering: Applications, Basis and Communications. 2024`` [Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16](https://doi.org/10.4015/S1016237223500060), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh*.
+- ``Journal of Biomedical Engineering: Applications, Basis and Communications. 2024`` [Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16](https://doi.org/10.4015/S1016237223500060), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images](https://doi.org/10.1109/ICCKE60553.2023.10326246), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and Bagging Trees](https://doi.org/10.1109/ICCKE60553.2023.10326290), Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 - ``Iranian Journal of Medical Physics. 2023`` [Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach](https://doi.org/10.22038/ijmp.2023.73972.2313), **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
@@ -120,18 +146,8 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <img src="images\Publications\Under Review\ADHD2024.png" style="width:100%">
-    <div class="text">EEG-Based ADHD Detection Utilizing Fused Brain Connectivity and Attention-Based Convolutional Neural Network</div>
-  </div>
-
-  <div class="mySlides fade">
     <img src="images\Publications\Under Review\DM.png" style="width:100%">
     <div class="text">Enhanced Diabetes Detection through Biochemical Markers and Fasting Lipid Profiles: A Machine Learning Approach</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images\Publications\Under Review\CrudeOil.png" style="width:100%">
-    <div class="text">Crude Oil Price Forecasting Using K-means Clustering and LSTM Model Enhanced by Dense-Sparse-Dense Strategy</div>
   </div>
 
   <div class="mySlides fade">
