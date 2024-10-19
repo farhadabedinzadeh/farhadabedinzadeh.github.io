@@ -24,9 +24,9 @@ To further enrich my knowledge and acquire new experiences, I am now preparing t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Neuroinformatics, 2024</div><img src='images\Publications\ADHD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved ADHD Diagnosis Using EEG Connectivity and Deep Learning through Combining Pearson Correlation Coefficient and Phase-Locking Value](https://link.springer.com/journal/12021)
+[Improved ADHD Diagnosis Using EEG Connectivity and Deep Learning through Combining Pearson Correlation Coefficient and Phase-Locking Value](https://doi.org/10.1007/s12021-024-09685-3)
 
-Elham Ahmadi Moghadam, **Farhad Abedinzadeh Torghabeh**, Mohammad Hossein Moattar*, Seyyed Abed Hosseini.
+Elham Ahmadi Moghadam, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*, Mohammad Hossein Moattar*.
 
 - <p style="text-align: justify;"> Attention Deficit Hyperactivity Disorder (ADHD) is a widespread neurobehavioral disorder affecting children and adolescents, requiring early detection for effective treatment. EEG connectivity measures can reveal the interdependencies between EEG recordings, highlighting brain network patterns and functional behavior that improve diagnostic accuracy. This study introduces a novel ADHD diagnostic method by combining linear and nonlinear brain connectivity maps with an attention-based convolutional neural network (Att-CNN). Pearson Correlation Coefficient (PCC) and Phase-Locking Value (PLV) are used to create fused connectivity maps (FCMs) from various EEG frequency subbands, which are then inputted into the Att-CNN. The attention module is strategically placed after the latest convolutional layer in the CNN. The performance of different optimizers (Adam and SGD) and learning rates are assessed. The suggested model obtained 98.88%, 98.41%, 98.19%, and 98.30% for accuracy, precision, recall, and F1 Score, respectively, using the SGD optimizer in the FCM of the theta band with a learning rate of 1e-1. With the use of FCM, Att-CNN, and advanced optimizers, the proposed technique has the potential to produce trustworthy instruments for the early diagnosis of ADHD, greatly enhancing both patient outcomes and diagnostic accuracy.</p>
 
