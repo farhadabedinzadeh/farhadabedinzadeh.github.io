@@ -136,6 +136,19 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Biomedical Engineering: Applications, Basis and Communications, 2024</div><img src='images\Publications\Under Review\Mental.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Pre-Processing Free Mental State Detection Model Suitable for Real-Time Applications](https://doi.org/10.4015/S1016237224500510)
+
+**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
+
+- <p style="text-align: justify;">The biomedical field plays a pivotal role in advancing healthcare by leveraging technological innovations to enhance diagnostics and treatment strategies. In the context of neurological disorders, particularly epilepsy, automated EEG signal processing stands out as a critical facet of biomedical research. The ability to analyze and interpret vast amounts of electroencephalogram (EEG) data using sophisticated techniques, such as continuous wavelet transform, contributes significantly to the timely and accurate detection of epileptic events. Automated EEG signal processing, which uses advanced algorithms and pattern recognition methods, enables the identification of subtle yet crucial patterns indicative of epileptic activity. This paper presents an in-depth exploration of epilepsy identification using the CWT on the CHB-MIT Scalp EEG database. The study uses nine complex mother wavelets from the Gaussian and Morlet families to look at 8920 EEG segments, including 197 seizure events. The performance of each wavelet in detecting epileptic convulsions within EEG signals is rigorously evaluated. Our study shows that the complex Gaussian wavelet of order 5 (cgau5) emerged as the optimal choice, with a sensitivity of 97.58% and a precision of 97.93%. To improve epilepsy detection, we introduce burst energy, a novel engineered feature. This method gets accurate information about brain activity from the CWT scalogram by detecting ictal and ictal-free EEGs at different energy levels. The use of burst energy has a significant impact on classification performance, highlighting its potential for improved accuracy in epilepsy identification. This comprehensive study contributes valuable insights into selecting appropriate wavelets and introduces an innovative feature for more effective EEG-based epilepsy detection.</p>
+
+</div>
+</div>
+
+
 - ``Journal of Biomedical Engineering: Applications, Basis and Communications. 2024`` [Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16](https://doi.org/10.4015/S1016237223500060), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images](https://doi.org/10.1109/ICCKE60553.2023.10326246), **Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.
 - ``13th International Conference on Computer and Knowledge Engineering (ICCKE). 2023`` [EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and Bagging Trees](https://doi.org/10.1109/ICCKE60553.2023.10326290), Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
@@ -158,11 +171,6 @@ Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*.
   <div class="mySlides fade">
     <img src="images\Publications\Under Review\FoG.png" style="width:100%">
     <div class="text">Detection of Freezing of Gait in Parkinson’s Disease Using Multimodality Data and Custom-Designed Convolutional-LSTM Neural Network</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images\Publications\Under Review\Mental.png" style="width:100%">
-    <div class="text">A Pre-Processing Free Mental State Detection Model Suitable for Real-Time Applications</div>
   </div>
 
   <div class="mySlides fade">
