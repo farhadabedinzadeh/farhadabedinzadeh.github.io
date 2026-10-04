@@ -11,6 +11,10 @@
   selected: true
   selected_order: 2
   metadata_source: https://api.crossref.org/works/10.1007/s12021-024-09685-3
+  scholar_id: rAgss7MAAAAJ:RHpTSmoSYBkC
+  citations_snapshot: 38
+  type: Journal article
+  home_selected: true
 - title: Crude Oil Price Forecasting Using K-means Clustering and LSTM Model Enhanced by Dense-Sparse-Dense Strategy
   url: https://doi.org/10.1186/s40537-024-00977-8
   authors: Alireza Jahandoost, **Farhad Abedinzadeh**, Seyyed Abed Hosseini, Mahboobeh Houshmand.
@@ -18,11 +22,15 @@
   year: 2024
   image: images/optimized/paper-2.webp
   id: paper-2
-  topic: Machine learning
+  topic: Machine learning & tools
   summary: Combines clustering and recurrent modelling for crude oil price forecasting.
   selected: false
   selected_order: 99
   metadata_source: https://api.crossref.org/works/10.1186/s40537-024-00977-8
+  scholar_id: rAgss7MAAAAJ:TFP_iSt0sucC
+  citations_snapshot: 24
+  type: Journal article
+  home_selected: false
 - title: Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases
   url: https://doi.org/10.1016/j.gaitpost.2024.07.302
   authors: Farhad Abedinzadeh, Elham Ahmadi Moghadam, Seyyed Abed Hosseini.
@@ -30,11 +38,15 @@
   year: 2024
   image: images/optimized/paper-3.webp
   id: paper-3
-  topic: Gait & movement
+  topic: Gait & speech
   summary: Uses interlimb wavelet coherence and transfer learning to study neurodegenerative gait patterns.
   selected: true
   selected_order: 3
   metadata_source: https://api.crossref.org/works/10.1016/j.gaitpost.2024.07.302
+  scholar_id: rAgss7MAAAAJ:R3hNpaxXUhUC
+  citations_snapshot: 15
+  type: Journal article
+  home_selected: true
 - title: Potential Biomarker for Early Detection of ADHD Using Phase-Based Brain Connectivity and Graph Theory
   url: https://doi.org/10.1007/s13246-023-01310-y
   authors: '**Farhad Abedinzadeh**, Seyyed Abed Hosseini*, Yeganeh Modaresnia.'
@@ -46,6 +58,10 @@
   summary: Investigates phase-based functional connectivity and graph features in childhood ADHD.
   selected: false
   selected_order: 99
+  scholar_id: rAgss7MAAAAJ:QIV2ME_5wuYC
+  citations_snapshot: 19
+  type: Journal article
+  home_selected: false
 - title: Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation
     of Electroencephalography Signals
   url: https://doi.org/10.1007/s11517-023-02959-z
@@ -59,6 +75,10 @@
   selected: true
   selected_order: 4
   metadata_source: https://api.crossref.org/works/10.1007/s11517-023-02959-z
+  scholar_id: rAgss7MAAAAJ:L8Ckcad2t8MC
+  citations_snapshot: 14
+  type: Journal article
+  home_selected: true
 - title: Enhancing Parkinson’s Disease Severity Assessment through Voice-Based Wavelet Scattering, Optimized Model
     Selection, and Weighted Majority Voting
   url: https://doi.org/10.1016/j.medntd.2023.100266
@@ -67,11 +87,15 @@
   year: 2023
   image: images/optimized/paper-6.webp
   id: paper-6
-  topic: Gait & movement
+  topic: Gait & speech
   summary: Studies voice features, wavelet scattering and ensemble learning for Parkinson’s severity assessment.
   selected: false
   selected_order: 99
   metadata_source: https://api.crossref.org/works/10.1016/j.medntd.2023.100266
+  scholar_id: rAgss7MAAAAJ:dhFuZR0502QC
+  citations_snapshot: 40
+  type: Journal article
+  home_selected: false
 - title: EEG-Based Effective Connectivity Analysis for Attention Deficit Hyperactivity Disorder Detection Using
     Color-Coded Granger-Causality Images and Custom Convolutional Neural Network
   url: https://doi.org/10.34172/icnj.2023.12
@@ -85,6 +109,10 @@
   selected: false
   selected_order: 99
   metadata_source: https://api.crossref.org/works/10.34172/icnj.2023.12
+  scholar_id: rAgss7MAAAAJ:ZeXyd9-uunAC
+  citations_snapshot: 10
+  type: Journal article
+  home_selected: false
 - title: Enhancing Multi-class Diabetic Retinopathy Detection Using Tuned Hyper-parameters and Modified Deep Transfer
     Learning
   url: https://doi.org/10.1007/s11042-024-18506-3
@@ -98,6 +126,10 @@
   selected: true
   selected_order: 1
   metadata_source: https://api.crossref.org/works/10.1007/s11042-024-18506-3
+  scholar_id: rAgss7MAAAAJ:mB3voiENLucC
+  citations_snapshot: 18
+  type: Journal article
+  home_selected: true
 - title: An Efficient Tool for Parkinson’s Disease Detection and Severity Grading Based on Time-Frequency and Fuzzy
     Features of Cumulative Gait Signals through Improved LSTM Networks
   url: https://www.sciencedirect.com/science/article/pii/S2590093524000134
@@ -106,11 +138,15 @@
   year: 2024
   image: images/optimized/paper-9.webp
   id: paper-9
-  topic: Gait & movement
+  topic: Gait & speech
   summary: Studies time-frequency and fuzzy gait features with recurrent networks for Parkinson’s detection and
     grading.
   selected: false
   selected_order: 99
+  scholar_id: rAgss7MAAAAJ:TQgYirikUcIC
+  citations_snapshot: 38
+  type: Journal article
+  home_selected: false
 - title: A Pre-Processing-Free Mental State Detection Model Using Noisy ECG Plots and Deep Transfer Learning
   url: https://doi.org/10.4015/S1016237224500510
   authors: '**Farhad Abedinzadeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.'
@@ -123,6 +159,10 @@
   selected: false
   selected_order: 99
   metadata_source: https://www.worldscientific.com/doi/abs/10.4015/S1016237224500510
+  scholar_id: rAgss7MAAAAJ:j3f4tGmQtD8C
+  citations_snapshot: 4
+  type: Journal article
+  home_selected: true
 - title: Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16
   url: https://doi.org/10.4015/S1016237223500060
   authors: Farhad Abedinzadeh, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh.
@@ -135,6 +175,10 @@
   selected: false
   selected_order: 99
   metadata_source: https://api.crossref.org/works/10.4015/s1016237223500060
+  scholar_id: rAgss7MAAAAJ:9ZlFYXVOiuMC
+  citations_snapshot: 20
+  type: Journal article
+  home_selected: false
 - title: An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images
   url: https://doi.org/10.1109/ICCKE60553.2023.10326246
   authors: Farhad Abedinzadeh, Yeganeh Modaresnia, Seyyed Abed Hosseini.
@@ -147,6 +191,10 @@
   selected: false
   selected_order: 99
   metadata_source: https://api.crossref.org/works/10.1109/iccke60553.2023.10326246
+  scholar_id: rAgss7MAAAAJ:hC7cP41nSMkC
+  citations_snapshot: 3
+  type: Conference paper
+  home_selected: false
 - title: EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and
     Bagging Trees
   url: https://doi.org/10.1109/ICCKE60553.2023.10326290
@@ -160,6 +208,10 @@
   selected: false
   selected_order: 99
   metadata_source: https://api.crossref.org/works/10.1109/iccke60553.2023.10326290
+  scholar_id: rAgss7MAAAAJ:-f6ydRqryjwC
+  citations_snapshot: 8
+  type: Conference paper
+  home_selected: true
 - title: 'Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach'
   url: https://ijmp.mums.ac.ir/article_25283.html
   authors: '**Farhad Abedinzadeh**, Seyyed Abed Hosseini*'
@@ -172,3 +224,53 @@
   selected: false
   selected_order: 99
   metadata_source: https://ijmp.mums.ac.ir/article_25283.html
+  scholar_id: rAgss7MAAAAJ:HDshCWvjkbEC
+  citations_snapshot: 10
+  type: Journal article
+  home_selected: false
+- id: paper-15
+  title: A Deep Time-frequency Approach in Automated Diagnosis of Neurodegenerative Diseases Using Gait Signals
+  authors: Yeganeh Modaresnia, **Farhad Abedinzadeh**, Seyyed Abed Hosseini.
+  venue: Basic and Clinical Neuroscience
+  year: 2024
+  url: https://bcn.iums.ac.ir/article-1-2842-en.html
+  metadata_source: https://bcn.iums.ac.ir/article-1-2842-en.html
+  topic: Gait & speech
+  type: Journal article
+  summary: Studies deep learning and time-frequency representations of gait signals for neurodegenerative disease
+    classification.
+  scholar_id: rAgss7MAAAAJ:_Qo2XoVZTnwC
+  citations_snapshot: 6
+  selected: false
+  home_selected: false
+- id: paper-16
+  title: 'Auto-UFSTool: An Automatic Unsupervised Feature Selection Toolbox for MATLAB'
+  authors: '**Farhad Abedinzadeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini.'
+  venue: Journal of AI and Data Mining
+  year: 2023
+  url: https://doi.org/10.22044/jadm.2023.12820.2434
+  metadata_source: https://github.com/farhadabedinzadeh/AutoUFSTool
+  topic: Machine learning & tools
+  type: Journal article
+  summary: An open MATLAB toolbox for automatic unsupervised feature selection.
+  scholar_id: rAgss7MAAAAJ:7PzlFSSx8tAC
+  citations_snapshot: 5
+  selected: false
+  home_selected: true
+  code_url: https://github.com/farhadabedinzadeh/AutoUFSTool
+- id: paper-17
+  title: Voice-driven Parkinson’s Detection Using Bidirectional Long Short-term Memory and Attention on Mobile-recorded
+    Speech
+  authors: '**Farhad Abedinzadeh**, Elham Ahmadi Moghadam, Seyyed Abed Hosseini, Mahboobeh Houshmand.'
+  venue: Network Modeling Analysis in Health Informatics and Bioinformatics
+  year: 2026
+  url: https://doi.org/10.1007/s13721-025-00720-0
+  metadata_source: https://link.springer.com/article/10.1007/s13721-025-00720-0
+  topic: Gait & speech
+  type: Journal article
+  summary: Studies acoustic features and attention-based bidirectional recurrent networks for Parkinson’s detection
+    from mobile-recorded speech.
+  scholar_id: rAgss7MAAAAJ:bEWYMUwI8FkC
+  citations_snapshot: 2
+  selected: false
+  home_selected: true

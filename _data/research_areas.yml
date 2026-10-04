@@ -1,0 +1,10 @@
+- id: imaging
+  title: Medical imaging
+- id: eeg
+  title: EEG & connectivity
+- id: gait-speech
+  title: Gait & speech
+- id: signals
+  title: Biomedical signals
+- id: ml-tools
+  title: Machine learning & tools

@@ -1,0 +1,5 @@
+{% assign journals = site.data.publications | where: 'type', 'Journal article' %}{% assign conferences = site.data.publications | where: 'type', 'Conference paper' %}
+<div class="research-stats" data-scholar-stats data-scholar-id="{{ site.data.scholar_snapshot.scholar_id }}" data-snapshot-date="{{ site.data.scholar_snapshot.updated }}" data-stats-url="https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json">
+  <div class="research-stats-grid"><div><strong>{{ site.data.publications.size }}</strong><span>Publications</span></div><div><strong>{{ journals.size }}</strong><span>Journal articles</span></div><div><strong>{{ conferences.size }}</strong><span>Conference papers</span></div><a href="{{ site.author.googlescholar }}"><strong data-citation-count>{{ site.data.scholar_snapshot.citedby }}</strong><span data-citation-label>Google Scholar citations ↗</span></a></div>
+  <p class="stats-source" data-stats-source>Google Scholar · Last checked {{ site.data.scholar_snapshot.updated | date: '%-d %B %Y' }}</p>
+</div>

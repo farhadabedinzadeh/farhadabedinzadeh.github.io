@@ -35,8 +35,12 @@ redirect_from:
 
 <section class="section publications-section container" id="publications" aria-labelledby="publications-title">
   <span id="-publications" aria-hidden="true"></span><div class="section-heading"><div><p class="eyebrow">02 / Selected publications</p><h2 id="publications-title">A selection of my work.</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">View all publications <span aria-hidden="true">↗</span></a></div>
-  {% assign selected = site.data.publications | where: 'selected', true | sort: 'selected_order' %}{% for paper in selected %}{% include publication-card.html thumbnail=true %}{% endfor %}
-  <p class="section-note">Selected work in retinal imaging, biomedical signals and deep learning. The complete list includes additional imaging, neuroscience and machine learning studies.</p>
+  {% include research-stats.html %}
+  {% assign selected = site.data.publications | where: 'home_selected', true %}
+  {% for area in site.data.research_areas %}{% assign area_papers = selected | where: 'topic', area.title | sort: 'year' | reverse %}{% if area_papers.size > 0 %}
+  <div class="publication-group"><h3 class="publication-group-title">{{ area.title }}</h3>{% for paper in area_papers %}{% include publication-card.html heading='h4' %}{% endfor %}</div>
+  {% endif %}{% endfor %}
+  <p class="section-note">Selected journal articles and conference papers, grouped by research area. <a href="{{ '/publications/' | relative_url }}">Explore all {{ site.data.publications.size }} publications</a>.</p>
 </section>
 
 <section class="section background-section container" id="background" aria-labelledby="background-title">
