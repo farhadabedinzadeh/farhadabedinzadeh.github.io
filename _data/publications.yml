@@ -1,0 +1,174 @@
+- title: Improved ADHD Diagnosis Using EEG Connectivity and Deep Learning through Combining Pearson Correlation
+    Coefficient and Phase-Locking Value
+  url: https://doi.org/10.1007/s12021-024-09685-3
+  authors: Elham Ahmadi Moghadam, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini, Mohammad Hossein Moattar.
+  venue: Neuroinformatics
+  year: 2024
+  image: images/optimized/paper-1.webp
+  id: paper-1
+  topic: EEG & connectivity
+  summary: Combines linear and phase-based EEG connectivity with an attention-based convolutional network.
+  selected: true
+  selected_order: 2
+  metadata_source: https://api.crossref.org/works/10.1007/s12021-024-09685-3
+- title: Crude Oil Price Forecasting Using K-means Clustering and LSTM Model Enhanced by Dense-Sparse-Dense Strategy
+  url: https://doi.org/10.1186/s40537-024-00977-8
+  authors: Alireza Jahandoost, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini, Mahboobeh Houshmand.
+  venue: Journal of Big Data
+  year: 2024
+  image: images/optimized/paper-2.webp
+  id: paper-2
+  topic: Machine learning
+  summary: Combines clustering and recurrent modelling for crude oil price forecasting.
+  selected: false
+  selected_order: 99
+  metadata_source: https://api.crossref.org/works/10.1186/s40537-024-00977-8
+- title: Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases
+  url: https://doi.org/10.1016/j.gaitpost.2024.07.302
+  authors: Farhad Abedinzadeh Torghabeh, Elham Ahmadi Moghadam, Seyyed Abed Hosseini.
+  venue: Gait & Posture
+  year: 2024
+  image: images/optimized/paper-3.webp
+  id: paper-3
+  topic: Gait & movement
+  summary: Uses interlimb wavelet coherence and transfer learning to study neurodegenerative gait patterns.
+  selected: true
+  selected_order: 3
+  metadata_source: https://api.crossref.org/works/10.1016/j.gaitpost.2024.07.302
+- title: Potential Biomarker for Early Detection of ADHD Using Phase-Based Brain Connectivity and Graph Theory
+  url: https://doi.org/10.1007/s13246-023-01310-y
+  authors: '**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*, Yeganeh Modaresnia.'
+  venue: Physical and Engineering Sciences in Medicine
+  year: 2023
+  image: images/optimized/paper-4.webp
+  id: paper-4
+  topic: EEG & connectivity
+  summary: Investigates phase-based functional connectivity and graph features in childhood ADHD.
+  selected: false
+  selected_order: 99
+- title: Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation
+    of Electroencephalography Signals
+  url: https://doi.org/10.1007/s11517-023-02959-z
+  authors: '**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Mohammad Hossein Moattar.'
+  venue: Medical & Biological Engineering & Computing
+  year: 2024
+  image: images/optimized/paper-5.webp
+  id: paper-5
+  topic: EEG & connectivity
+  summary: Combines EEG scalograms with convolutional and recurrent models for autism classification.
+  selected: true
+  selected_order: 4
+  metadata_source: https://api.crossref.org/works/10.1007/s11517-023-02959-z
+- title: Enhancing Parkinson’s Disease Severity Assessment through Voice-Based Wavelet Scattering, Optimized Model
+    Selection, and Weighted Majority Voting
+  url: https://doi.org/10.1016/j.medntd.2023.100266
+  authors: '**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini, Elham Ahmadi Moghadam.'
+  venue: Medicine in Novel Technology and Devices
+  year: 2023
+  image: images/optimized/paper-6.webp
+  id: paper-6
+  topic: Gait & movement
+  summary: Studies voice features, wavelet scattering and ensemble learning for Parkinson’s severity assessment.
+  selected: false
+  selected_order: 99
+  metadata_source: https://api.crossref.org/works/10.1016/j.medntd.2023.100266
+- title: EEG-Based Effective Connectivity Analysis for Attention Deficit Hyperactivity Disorder Detection Using
+    Color-Coded Granger-Causality Images and Custom Convolutional Neural Network
+  url: https://doi.org/10.34172/icnj.2023.12
+  authors: '**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini.'
+  venue: International Clinical Neuroscience Journal
+  year: 2023
+  image: images/optimized/paper-7.webp
+  id: paper-7
+  topic: EEG & connectivity
+  summary: Models EEG effective connectivity with Granger-causality images and a convolutional network.
+  selected: false
+  selected_order: 99
+  metadata_source: https://api.crossref.org/works/10.34172/icnj.2023.12
+- title: Enhancing Multi-class Diabetic Retinopathy Detection Using Tuned Hyper-parameters and Modified Deep Transfer
+    Learning
+  url: https://doi.org/10.1007/s11042-024-18506-3
+  authors: Yeganeh Modaresnia, **Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini.
+  venue: Multimedia Tools and Applications
+  year: 2024
+  image: images/optimized/paper-8.webp
+  id: paper-8
+  topic: Medical imaging
+  summary: Investigates image enhancement, transfer learning and hyperparameter tuning for retinal fundus classification.
+  selected: true
+  selected_order: 1
+  metadata_source: https://api.crossref.org/works/10.1007/s11042-024-18506-3
+- title: An Efficient Tool for Parkinson’s Disease Detection and Severity Grading Based on Time-Frequency and Fuzzy
+    Features of Cumulative Gait Signals through Improved LSTM Networks
+  url: https://www.sciencedirect.com/science/article/pii/S2590093524000134
+  authors: '**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.'
+  venue: Medicine in Novel Technology and Devices
+  year: 2024
+  image: images/optimized/paper-9.webp
+  id: paper-9
+  topic: Gait & movement
+  summary: Studies time-frequency and fuzzy gait features with recurrent networks for Parkinson’s detection and
+    grading.
+  selected: false
+  selected_order: 99
+- title: A Pre-Processing-Free Mental State Detection Model Using Noisy ECG Plots and Deep Transfer Learning
+  url: https://doi.org/10.4015/S1016237224500510
+  authors: '**Farhad Abedinzadeh Torghabeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini*.'
+  venue: 'Biomedical Engineering: Applications, Basis and Communications'
+  year: 2025
+  image: images/optimized/paper-10.webp
+  id: paper-10
+  topic: Biomedical signals
+  summary: Studies mental-state classification from noisy ECG plots using deep transfer learning.
+  selected: false
+  selected_order: 99
+  metadata_source: https://www.worldscientific.com/doi/abs/10.4015/S1016237224500510
+- title: Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16
+  url: https://doi.org/10.4015/S1016237223500060
+  authors: Farhad Abedinzadeh Torghabeh, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh.
+  venue: 'Biomedical Engineering: Applications, Basis and Communications'
+  year: 2023
+  image: ''
+  id: paper-11
+  topic: Medical imaging
+  summary: Examines the effect of learning rate on VGG16 models for dementia severity prediction.
+  selected: false
+  selected_order: 99
+  metadata_source: https://api.crossref.org/works/10.4015/s1016237223500060
+- title: An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images
+  url: https://doi.org/10.1109/ICCKE60553.2023.10326246
+  authors: Farhad Abedinzadeh Torghabeh, Yeganeh Modaresnia, Seyyed Abed Hosseini.
+  venue: 13th International Conference on Computer and Knowledge Engineering (ICCKE)
+  year: 2023
+  image: ''
+  id: paper-12
+  topic: Medical imaging
+  summary: Explores high-level thermography image features for breast abnormality detection.
+  selected: false
+  selected_order: 99
+  metadata_source: https://api.crossref.org/works/10.1109/iccke60553.2023.10326246
+- title: EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and
+    Bagging Trees
+  url: https://doi.org/10.1109/ICCKE60553.2023.10326290
+  authors: Yeganeh Modaresnia, Farhad Abedinzadeh Torghabeh, Seyyed Abed Hosseini.
+  venue: 13th International Conference on Computer and Knowledge Engineering (ICCKE)
+  year: 2023
+  image: ''
+  id: paper-13
+  topic: Medical imaging
+  summary: Combines EfficientNetB0 image features with bagging trees for brain tumour classification.
+  selected: false
+  selected_order: 99
+  metadata_source: https://api.crossref.org/works/10.1109/iccke60553.2023.10326290
+- title: 'Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabv3+ Approach'
+  url: https://ijmp.mums.ac.ir/article_25283.html
+  authors: '**Farhad Abedinzadeh Torghabeh**, Seyyed Abed Hosseini*'
+  venue: Iranian Journal of Medical Physics
+  year: 2024
+  image: ''
+  id: paper-14
+  topic: Medical imaging
+  summary: Applies a MobileNetV2–DeepLabv3+ architecture to brain tumour segmentation in MRI.
+  selected: false
+  selected_order: 99
+  metadata_source: https://ijmp.mums.ac.ir/article_25283.html

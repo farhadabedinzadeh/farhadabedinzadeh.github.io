@@ -6,10 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Farhad's HomePage"
-description              : A Biomedical Researcher
+title                    : "Farhad Abedinzadeh"
+description              : "PhD researcher at Durham University working on interpretable AI, retinal imaging and early prediction of childhood myopia."
 repository               : farhadabedinzadeh/farhadabedinzadeh.github.io
 google_scholar_stats_use_cdn : true
+
+url: "https://farhadabedinzadeh.github.io"
+baseurl: ""
 
 # google analytics
 google_analytics_id      :  G-QN9SBPFBS4
@@ -24,10 +27,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Farhad Abedinzadeh"
-  avatar           : "images/profile3.jpg"
-  bio              : #"A Neuroscience Researcher"
-  location         : "Mashhad, Iran"
-  employer         :
+  avatar           : "images/optimized/profile.webp"
+  bio              : "PhD Researcher in AI and Medical Imaging"
+  location         : "Durham, United Kingdom"
+  employer         : "Durham University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rAgss7MAAAAJ&hl"
   email            : "farhaad.abedinzade@gmail.com"
@@ -67,6 +70,8 @@ include:
   - _pages
   - files
 exclude:
+  - preview
+  - scripts
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -79,6 +84,8 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
+  - CONTRIBUTING.md
   - Gruntfile.js
   - LICENSE
   - README
@@ -138,7 +145,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Tehran # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

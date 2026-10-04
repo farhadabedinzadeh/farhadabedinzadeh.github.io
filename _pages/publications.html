@@ -1,0 +1,12 @@
+---
+layout: academic
+permalink: /publications/
+title: Publications
+description: "Publications by Farhad Abedinzadeh in medical imaging, EEG connectivity, gait analysis and machine learning."
+---
+<section class="container page-intro"><p class="eyebrow">Research output</p><h1>Publications<span class="name-period">.</span></h1><p class="intro-text">Work across medical imaging, biomedical signals and machine learning.</p><div class="intro-actions"><a class="text-link" href="{{ site.author.googlescholar }}">Google Scholar ↗</a><a class="text-link" href="{{ site.author.orcid }}">ORCID ↗</a></div></section>
+<section class="container publication-list" aria-label="Published papers">
+  <div class="publication-tools" hidden><div class="filter-buttons" role="group" aria-label="Filter by research area"><button type="button" data-filter="all" aria-pressed="true">All</button><button type="button" data-filter="Medical imaging" aria-pressed="false">Medical imaging</button><button type="button" data-filter="EEG &amp; connectivity" aria-pressed="false">EEG &amp; connectivity</button><button type="button" data-filter="Gait &amp; movement" aria-pressed="false">Gait &amp; movement</button><button type="button" data-filter="Biomedical signals" aria-pressed="false">Biomedical signals</button><button type="button" data-filter="Machine learning" aria-pressed="false">Machine learning</button></div><p class="result-count" aria-live="polite" aria-atomic="true"></p></div>
+  {% assign papers = site.data.publications | sort: 'year' | reverse %}{% for paper in papers %}{% include publication-card.html thumbnail=false %}{% endfor %}
+  <p class="section-note">This bibliography brings together the published references recorded on my website. For more recent work and current citation information, see <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+</section>
