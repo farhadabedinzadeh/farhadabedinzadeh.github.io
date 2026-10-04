@@ -43,10 +43,10 @@ def footer(canvas, doc):
     canvas.line(48, 39, A4[0] - 48, 39)
     canvas.setFillColor(MUTED)
     canvas.setFont("CV", 7)
-    canvas.drawString(48, 26, "Farhad Abedinzadeh Torghabeh | Academic CV")
+    canvas.drawString(48, 26, "Farhad Abedinzadeh | Academic CV")
     canvas.drawRightString(A4[0] - 48, 26, str(doc.page))
 
-story = [para("Farhad Abedinzadeh Torghabeh", "name"), para("PhD researcher | Durham University | AI & Medical Imaging", "sub")]
+story = [para("Farhad Abedinzadeh", "name"), para("Postgraduate Researcher (PhD) in Bioengineering | Durham University", "sub")]
 story += [para("Durham, United Kingdom | farhaad.abedinzade@gmail.com", "body"), para("farhadabedinzadeh.github.io | ORCID: 0000-0002-0021-2009", "body"), Spacer(1, 5)]
 for section in soup.select(".cv-section"):
     heading = text(section.h2)
@@ -76,5 +76,5 @@ for section in soup.select(".cv-section"):
 
 OUT.parent.mkdir(parents=True, exist_ok=True)
 SimpleDocTemplate(str(OUT), pagesize=A4, leftMargin=48, rightMargin=48, topMargin=38, bottomMargin=48,
-                  title="Academic CV - Farhad Abedinzadeh Torghabeh", author="Farhad Abedinzadeh Torghabeh").build(story, onFirstPage=footer, onLaterPages=footer)
+                  title="Academic CV - Farhad Abedinzadeh", author="Farhad Abedinzadeh").build(story, onFirstPage=footer, onLaterPages=footer)
 print(OUT)

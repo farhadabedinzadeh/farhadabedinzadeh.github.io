@@ -1,6 +1,6 @@
 # Farhad Abedinzadeh · Academic website
 
-[Website](https://farhadabedinzadeh.github.io) · PhD researcher at Durham University.
+[Website](https://farhadabedinzadeh.github.io) · Postgraduate researcher (PhD) in Bioengineering at Durham University.
 
 The `site-improvements` branch contains the redesigned academic portfolio.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for content locations and build instructions.

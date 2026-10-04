@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Farhad Abedinzadeh"
-description              : "PhD researcher at Durham University working on interpretable AI, retinal imaging and early prediction of childhood myopia."
+description              : "Postgraduate researcher (PhD) in Bioengineering at Durham University working on interpretable AI, retinal imaging and early prediction of childhood myopia."
 repository               : farhadabedinzadeh/farhadabedinzadeh.github.io
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Farhad Abedinzadeh"
   avatar           : "images/optimized/profile.webp"
-  bio              : "PhD Researcher in AI and Medical Imaging"
+  bio              : "Postgraduate Researcher (PhD) in Bioengineering"
   location         : "Durham, United Kingdom"
   employer         : "Durham University"
   pubmed           : 
