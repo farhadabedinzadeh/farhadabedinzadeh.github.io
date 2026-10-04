@@ -2,7 +2,7 @@
 layout: academic
 permalink: /publications/
 title: Publications
-description: "Publications by Farhad Abedinzadeh in medical imaging, EEG connectivity, gait and speech analysis, biomedical signals and machine learning."
+description: "Publications by Farhad Abedinzadeh in medical imaging, computational neuroscience, neurodevelopmental and neurodegenerative disorders, biomedical signals and machine learning."
 ---
 <section class="container page-intro"><p class="eyebrow">Research output</p><h1>Publications<span class="name-period">.</span></h1><p class="intro-text">Journal articles and conference papers, grouped by research area.</p><div class="intro-actions"><a class="text-link" href="{{ site.author.googlescholar }}">Google Scholar ↗</a><a class="text-link" href="{{ site.author.orcid }}">ORCID ↗</a></div></section>
 <section class="container publication-list" aria-label="Published papers">
@@ -13,7 +13,7 @@ description: "Publications by Farhad Abedinzadeh in medical imaging, EEG connect
     <p class="result-count" aria-live="polite" aria-atomic="true"></p>
   </div>
   {% for area in site.data.research_areas %}{% assign papers = site.data.publications | where: 'topic', area.title | sort: 'year' | reverse %}
-  <div class="publication-group" data-publication-group><h2 class="publication-group-title">{{ area.title }}</h2>{% for paper in papers %}{% include publication-card.html %}{% endfor %}</div>
+  <div class="publication-group" data-publication-group><h2 class="publication-group-title">{{ area.title }}</h2>{% if area.description %}<p class="publication-group-description">{{ area.description }}</p>{% endif %}{% for paper in papers %}{% include publication-card.html %}{% endfor %}</div>
   {% endfor %}
   <p class="publication-empty" hidden>No publications match these filters.</p>
   <p class="section-note">For the latest citation information and new work, visit <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>

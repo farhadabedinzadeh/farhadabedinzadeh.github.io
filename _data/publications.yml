@@ -6,7 +6,7 @@
   year: 2024
   image: images/optimized/paper-1.webp
   id: paper-1
-  topic: EEG & connectivity
+  topic: Computational neuroscience
   summary: Combines linear and phase-based EEG connectivity with an attention-based convolutional network.
   selected: true
   selected_order: 2
@@ -38,7 +38,7 @@
   year: 2024
   image: images/optimized/paper-3.webp
   id: paper-3
-  topic: Gait & speech
+  topic: Neurodegenerative disorders
   summary: Uses interlimb wavelet coherence and transfer learning to study neurodegenerative gait patterns.
   selected: true
   selected_order: 3
@@ -54,14 +54,14 @@
   year: 2023
   image: images/optimized/paper-4.webp
   id: paper-4
-  topic: EEG & connectivity
+  topic: Computational neuroscience
   summary: Investigates phase-based functional connectivity and graph features in childhood ADHD.
   selected: false
   selected_order: 99
   scholar_id: rAgss7MAAAAJ:QIV2ME_5wuYC
   citations_snapshot: 19
   type: Journal article
-  home_selected: false
+  home_selected: true
 - title: Hybrid Deep Transfer Learning Based Early Diagnosis of Autism Spectrum Disorder Using Scalogram Representation
     of Electroencephalography Signals
   url: https://doi.org/10.1007/s11517-023-02959-z
@@ -70,7 +70,7 @@
   year: 2024
   image: images/optimized/paper-5.webp
   id: paper-5
-  topic: EEG & connectivity
+  topic: Computational neuroscience
   summary: Combines EEG scalograms with convolutional and recurrent models for autism classification.
   selected: true
   selected_order: 4
@@ -87,7 +87,7 @@
   year: 2023
   image: images/optimized/paper-6.webp
   id: paper-6
-  topic: Gait & speech
+  topic: Neurodegenerative disorders
   summary: Studies voice features, wavelet scattering and ensemble learning for Parkinson’s severity assessment.
   selected: false
   selected_order: 99
@@ -104,7 +104,7 @@
   year: 2023
   image: images/optimized/paper-7.webp
   id: paper-7
-  topic: EEG & connectivity
+  topic: Computational neuroscience
   summary: Models EEG effective connectivity with Granger-causality images and a convolutional network.
   selected: false
   selected_order: 99
@@ -138,7 +138,7 @@
   year: 2024
   image: images/optimized/paper-9.webp
   id: paper-9
-  topic: Gait & speech
+  topic: Neurodegenerative disorders
   summary: Studies time-frequency and fuzzy gait features with recurrent networks for Parkinson’s detection and
     grading.
   selected: false
@@ -170,7 +170,7 @@
   year: 2023
   image: ''
   id: paper-11
-  topic: Medical imaging
+  topic: Neurodegenerative disorders
   summary: Examines the effect of learning rate on VGG16 models for dementia severity prediction.
   selected: false
   selected_order: 99
@@ -235,7 +235,7 @@
   year: 2024
   url: https://bcn.iums.ac.ir/article-1-2842-en.html
   metadata_source: https://bcn.iums.ac.ir/article-1-2842-en.html
-  topic: Gait & speech
+  topic: Neurodegenerative disorders
   type: Journal article
   summary: Studies deep learning and time-frequency representations of gait signals for neurodegenerative disease
     classification.
@@ -266,7 +266,7 @@
   year: 2026
   url: https://doi.org/10.1007/s13721-025-00720-0
   metadata_source: https://link.springer.com/article/10.1007/s13721-025-00720-0
-  topic: Gait & speech
+  topic: Neurodegenerative disorders
   type: Journal article
   summary: Studies acoustic features and attention-based bidirectional recurrent networks for Parkinson’s detection
     from mobile-recorded speech.

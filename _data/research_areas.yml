@@ -1,9 +1,11 @@
 - id: imaging
   title: Medical imaging
 - id: eeg
-  title: EEG & connectivity
+  title: Computational neuroscience
+  description: Brain connectivity, EEG signal processing and AI for neurodevelopmental disorders, including ADHD and autism.
 - id: gait-speech
-  title: Gait & speech
+  title: Neurodegenerative disorders
+  description: Signal and image processing with AI for Parkinson’s disease, dementia and other neurodegenerative disorders, using gait, voice and MRI data.
 - id: signals
   title: Biomedical signals
 - id: ml-tools
