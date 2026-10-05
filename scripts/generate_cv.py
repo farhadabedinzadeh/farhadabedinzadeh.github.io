@@ -26,10 +26,10 @@ INK, MUTED, ACCENT = map(colors.HexColor, ["#203536", "#536461", "#a14e30"])
 styles = {
     "name": ParagraphStyle("name", fontName="CV-Bold", fontSize=19, leading=24, textColor=INK, spaceAfter=9),
     "sub": ParagraphStyle("sub", fontName="CV", fontSize=10, leading=15, textColor=MUTED, spaceAfter=10),
-    "heading": ParagraphStyle("heading", fontName="CV-Bold", fontSize=13, leading=16, textColor=ACCENT, spaceBefore=10, spaceAfter=7, keepWithNext=True),
-    "rowtitle": ParagraphStyle("rowtitle", fontName="CV-Bold", fontSize=9, leading=12, textColor=INK, spaceAfter=3, keepWithNext=True),
-    "body": ParagraphStyle("body", fontName="CV", fontSize=8.6, leading=11.2, textColor=MUTED, spaceAfter=4),
-    "meta": ParagraphStyle("meta", fontName="CV", fontSize=7.6, leading=11, textColor=ACCENT, spaceAfter=3),
+    "heading": ParagraphStyle("heading", fontName="CV-Bold", fontSize=13, leading=15, textColor=ACCENT, spaceBefore=6, spaceAfter=4, keepWithNext=True),
+    "rowtitle": ParagraphStyle("rowtitle", fontName="CV-Bold", fontSize=9, leading=11.5, textColor=INK, spaceAfter=2, keepWithNext=True),
+    "body": ParagraphStyle("body", fontName="CV", fontSize=8.6, leading=10.5, textColor=MUTED, spaceAfter=2),
+    "meta": ParagraphStyle("meta", fontName="CV", fontSize=7.6, leading=10, textColor=ACCENT, spaceAfter=2),
 }
 
 def text(tag):
@@ -50,6 +50,12 @@ story = [para("Farhad Abedinzadeh", "name"), para("Postgraduate Researcher (PhD)
 story += [para("Durham, United Kingdom | farhaad.abedinzade@gmail.com", "body"), para("farhadabedinzadeh.github.io | ORCID: 0000-0002-0021-2009", "body"), Spacer(1, 5)]
 for section in soup.select(".cv-section"):
     heading = text(section.h2)
+    if heading == "Teaching development":
+        block = [para(heading, "heading")]
+        block.extend(para(text(p)) for p in section.find_all("p", recursive=False))
+        block.extend(para("- " + text(li)) for li in section.select("li"))
+        story.append(KeepTogether(block))
+        continue
     story.append(para(heading, "heading"))
     rows = section.select(".cv-row")
     if rows:
@@ -70,6 +76,7 @@ for section in soup.select(".cv-section"):
         for div in section.select(".cv-skills > div"):
             story.append(KeepTogether([para(text(div.h3), "rowtitle"), para(text(div.p))]))
     elif section.ul:
+        story.extend(para(text(p)) for p in section.find_all("p", recursive=False))
         story.extend(para("- " + text(li)) for li in section.select("li"))
     else:
         story.extend(para(text(p)) for p in section.select("p"))
