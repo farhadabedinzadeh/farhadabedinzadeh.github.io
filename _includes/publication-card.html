@@ -1,0 +1,10 @@
+<article class="publication" data-topic="{{ paper.topic | escape }}" data-type="{{ paper.type | escape }}">
+  <div class="publication-content">
+    <div class="paper-meta"><span class="paper-type">{{ paper.type }}</span><span>{{ paper.venue }} · {{ paper.year }}</span></div>
+    {% assign heading = include.heading | default: 'h3' %}<{{ heading }} class="paper-title"><a href="{{ paper.url }}">{{ paper.title }}</a></{{ heading }}>
+    <div class="authors">{{ paper.authors | markdownify }}</div>
+    <p class="paper-summary">{{ paper.summary }}</p>
+    <a class="text-link paper-link" href="{{ paper.url }}">{% if paper.url contains 'doi.org' %}Paper / DOI{% else %}Read paper{% endif %} <span aria-hidden="true">↗</span></a>
+    {% if paper.code_url %}<a class="text-link paper-link paper-code" href="{{ paper.code_url }}">Code ↗</a>{% endif %}
+  </div>
+</article>
