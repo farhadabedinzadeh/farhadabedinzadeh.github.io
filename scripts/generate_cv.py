@@ -69,7 +69,7 @@ for section in soup.select(".cv-section"):
             link = paper.h3.a
             title = escape(text(link))
             block = [Paragraph(f'<a href="{escape(link["href"], quote=True)}" color="#163e40">{title}</a>', styles["rowtitle"])]
-            block.extend([para(text(paper.select_one(".paper-meta")), "meta"), para(text(paper.select_one(".authors"))), Spacer(1, 4)])
+            block.extend([para(text(paper.select_one(".paper-meta")), "meta"), Paragraph(escape(text(paper.select_one(".authors"))).replace("Farhad Abedinzadeh", "<b>Farhad Abedinzadeh</b>"), styles["body"]), Spacer(1, 4)])
             story.append(KeepTogether(block))
         story.append(Paragraph(f'Complete bibliography: <a href="{SITE_URL}/publications/" color="#163e40">{SITE_URL}/publications/</a>', styles["body"]))
     elif section.select(".cv-skills"):

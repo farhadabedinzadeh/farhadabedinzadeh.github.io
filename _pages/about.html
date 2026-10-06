@@ -11,7 +11,7 @@ redirect_from:
     <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Postgraduate Researcher (PhD) · Durham University</p>
     <h1 id="hero-title">Farhad<br>Abedinzadeh<span class="name-period">.</span></h1>
     <p class="hero-role">Postgraduate Researcher (PhD)<br>in <em>Bioengineering.</em></p>
-    <p class="hero-description">I build on a background in biomedical engineering to study how interpretable AI can help us understand retinal changes and predict childhood myopia earlier.</p>
+    <p class="hero-description">Farhad Abedinzadeh is a PhD researcher in Bioengineering at Durham University, working at the intersection of artificial intelligence (AI), medical imaging, and ophthalmology. His current research focuses on developing interpretable AI methods to analyse retinal imaging and ocular biometric data, aiming to improve early prediction of childhood myopia.</p>
     <div class="hero-actions"><a class="button button-primary" href="#research">Explore my research <span aria-hidden="true">↓</span></a><a class="button button-outline" href="{{ '/cv/' | relative_url }}">View CV <span aria-hidden="true">↗</span></a></div>
     <div class="social-links"><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a><a href="https://github.com/{{ site.author.github }}">GitHub ↗</a><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn ↗</a><a href="{{ site.author.orcid }}">ORCID ↗</a></div>
   </div>
@@ -26,16 +26,11 @@ redirect_from:
 <section class="section container" id="research" aria-labelledby="research-title">
   <div class="section-heading"><div><p class="eyebrow">01 / Current research</p><h2 id="research-title">Understanding change.<br>Predicting earlier.</h2></div><p>Connecting retinal images, ocular measurements and information collected over time.</p></div>
   <div class="research-feature">
-    <div class="research-main"><span class="light-eyebrow">PhD in Bioengineering · Durham University</span><h3>Interpretable AI for early prediction of childhood myopia</h3><p>My PhD investigates longitudinal, multimodal retinal imaging and biometric data, with the aim of identifying changes that may precede the onset of myopia in children.</p><p>I am interested in models that capture how an eye changes over time, combine complementary measurements and offer explanations that can be assessed against clinical knowledge.</p><div class="research-tags"><span>Retinal imaging</span><span>Ocular biometry</span><span>Interpretable prediction</span></div></div>
+    <div class="research-main"><span class="light-eyebrow">PhD in Bioengineering · Durham University</span><h3>Interpretable AI for early prediction of childhood myopia</h3><p>My PhD investigates longitudinal, multimodal retinal imaging and biometric data, with the aim of identifying changes that may precede the onset of myopia in children.</p><p>I am interested in models that capture how an eye changes over time, combine complementary measurements and offer explanations that can be assessed against clinical knowledge.</p><div class="research-tags"><span>Retinal imaging</span><span>Ocular biometry</span><span>xAI</span><span>Longitudinal modelling</span><span>Generative AI</span><span>Agentic AI</span></div></div>
     <div class="research-methods"><div><span class="method-number">01</span><h4>Imaging the retina</h4><p>OCT, OCTA and en face imaging to explore retinal structure and vascular features.</p></div><div><span class="method-number">02</span><h4>Measuring the eye</h4><p>Axial length and corneal measurements alongside repeated observations of ocular development.</p></div><div><span class="method-number">03</span><h4>Learning over time</h4><p>Multimodal and longitudinal modelling, with interpretability and clinically relevant evaluation.</p></div></div>
+    <img class="research-visual" src="{{ '/images/retinal-ai.svg' | relative_url }}" alt="Stylised retinal vessels and layered retinal imaging" width="160" height="134" loading="lazy">
   </div>
-  <div class="research-themes" aria-labelledby="themes-title">
-    <h3 id="themes-title" class="eyebrow">Research themes</h3>
-    <div class="theme-grid">{% for theme in site.data.research_themes %}
-      <div class="theme-group"><h4>{{ theme.title }}</h4><ul>{% for item in theme.items %}<li>{{ item }}</li>{% endfor %}</ul></div>
-    {% endfor %}</div>
-  </div>
-  <div class="research-background"><span class="eyebrow">Research foundations</span><p>My previous research focused on computational neuroscience and neurodevelopmental and neurodegenerative disorders. It combined biomedical signal and image processing, brain connectivity analysis and AI, using EEG, EMG, gait, voice and MRI data. That experience now informs my work in ophthalmic AI.</p></div>
+  <div class="research-background"><span class="eyebrow">Research foundations</span><p>My previous research focused on neurodevelopmental and neurodegenerative disorders, using AI to develop prototype computer-aided diagnosis systems. My research interests centre on clinically meaningful AI methods that improve our understanding, prediction and assessment of human health.</p></div>
 </section>
 
 <section class="section publications-section container" id="publications" aria-labelledby="publications-title">

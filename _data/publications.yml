@@ -1,12 +1,12 @@
 - title: Improved ADHD Diagnosis Using EEG Connectivity and Deep Learning through Combining Pearson Correlation
     Coefficient and Phase-Locking Value
   url: https://doi.org/10.1007/s12021-024-09685-3
-  authors: Elham Ahmadi Moghadam, **Farhad Abedinzadeh**, Seyyed Abed Hosseini, Mohammad Hossein Moattar.
+  authors: 'Elham Ahmadi Moghadam, **Farhad Abedinzadeh**, Seyyed Abed Hosseini, Mohammad Hossein Moattar.'
   venue: Neuroinformatics
   year: 2024
   image: images/optimized/paper-1.webp
   id: paper-1
-  topic: Computational neuroscience
+  topic: Neurodevelopmental disorders
   summary: Combines linear and phase-based EEG connectivity with an attention-based convolutional network.
   selected: true
   selected_order: 2
@@ -17,7 +17,7 @@
   home_selected: true
 - title: Crude Oil Price Forecasting Using K-means Clustering and LSTM Model Enhanced by Dense-Sparse-Dense Strategy
   url: https://doi.org/10.1186/s40537-024-00977-8
-  authors: Alireza Jahandoost, **Farhad Abedinzadeh**, Seyyed Abed Hosseini, Mahboobeh Houshmand.
+  authors: 'Alireza Jahandoost, **Farhad Abedinzadeh**, Seyyed Abed Hosseini, Mahboobeh Houshmand.'
   venue: Journal of Big Data
   year: 2024
   image: images/optimized/paper-2.webp
@@ -33,7 +33,7 @@
   home_selected: false
 - title: Simultaneous Time-Frequency Analysis of Gait Signals of Both Legs in Classifying Neurodegenerative Diseases
   url: https://doi.org/10.1016/j.gaitpost.2024.07.302
-  authors: Farhad Abedinzadeh, Elham Ahmadi Moghadam, Seyyed Abed Hosseini.
+  authors: '**Farhad Abedinzadeh**, Elham Ahmadi Moghadam, Seyyed Abed Hosseini.'
   venue: Gait & Posture
   year: 2024
   image: images/optimized/paper-3.webp
@@ -54,7 +54,7 @@
   year: 2023
   image: images/optimized/paper-4.webp
   id: paper-4
-  topic: Computational neuroscience
+  topic: Neurodevelopmental disorders
   summary: Investigates phase-based functional connectivity and graph features in childhood ADHD.
   selected: false
   selected_order: 99
@@ -70,7 +70,7 @@
   year: 2024
   image: images/optimized/paper-5.webp
   id: paper-5
-  topic: Computational neuroscience
+  topic: Neurodevelopmental disorders
   summary: Combines EEG scalograms with convolutional and recurrent models for autism classification.
   selected: true
   selected_order: 4
@@ -104,7 +104,7 @@
   year: 2023
   image: images/optimized/paper-7.webp
   id: paper-7
-  topic: Computational neuroscience
+  topic: Neurodevelopmental disorders
   summary: Models EEG effective connectivity with Granger-causality images and a convolutional network.
   selected: false
   selected_order: 99
@@ -116,7 +116,7 @@
 - title: Enhancing Multi-class Diabetic Retinopathy Detection Using Tuned Hyper-parameters and Modified Deep Transfer
     Learning
   url: https://doi.org/10.1007/s11042-024-18506-3
-  authors: Yeganeh Modaresnia, **Farhad Abedinzadeh**, Seyyed Abed Hosseini.
+  authors: 'Yeganeh Modaresnia, **Farhad Abedinzadeh**, Seyyed Abed Hosseini.'
   venue: Multimedia Tools and Applications
   year: 2024
   image: images/optimized/paper-8.webp
@@ -165,7 +165,7 @@
   home_selected: true
 - title: Effectiveness of Learning Rate in Dementia Severity Prediction Using VGG16
   url: https://doi.org/10.4015/S1016237223500060
-  authors: Farhad Abedinzadeh, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh.
+  authors: '**Farhad Abedinzadeh**, Yeganeh Modaresnia, Mohammad Mahdi Khalilzadeh.'
   venue: 'Biomedical Engineering: Applications, Basis and Communications'
   year: 2023
   image: ''
@@ -181,7 +181,7 @@
   home_selected: false
 - title: An Efficient Approach for Breast Abnormality Detection through High-Level features of Thermography Images
   url: https://doi.org/10.1109/ICCKE60553.2023.10326246
-  authors: Farhad Abedinzadeh, Yeganeh Modaresnia, Seyyed Abed Hosseini.
+  authors: '**Farhad Abedinzadeh**, Yeganeh Modaresnia, Seyyed Abed Hosseini.'
   venue: 13th International Conference on Computer and Knowledge Engineering (ICCKE)
   year: 2023
   image: ''
@@ -198,7 +198,7 @@
 - title: EfficientNetB0’s Hybrid Approach for Brain Tumor Classification from MRI Images Using Deep Learning and
     Bagging Trees
   url: https://doi.org/10.1109/ICCKE60553.2023.10326290
-  authors: Yeganeh Modaresnia, Farhad Abedinzadeh, Seyyed Abed Hosseini.
+  authors: 'Yeganeh Modaresnia, **Farhad Abedinzadeh**, Seyyed Abed Hosseini.'
   venue: 13th International Conference on Computer and Knowledge Engineering (ICCKE)
   year: 2023
   image: ''
@@ -230,7 +230,7 @@
   home_selected: false
 - id: paper-15
   title: A Deep Time-frequency Approach in Automated Diagnosis of Neurodegenerative Diseases Using Gait Signals
-  authors: Yeganeh Modaresnia, **Farhad Abedinzadeh**, Seyyed Abed Hosseini.
+  authors: 'Yeganeh Modaresnia, **Farhad Abedinzadeh**, Seyyed Abed Hosseini.'
   venue: Basic and Clinical Neuroscience
   year: 2024
   url: https://bcn.iums.ac.ir/article-1-2842-en.html

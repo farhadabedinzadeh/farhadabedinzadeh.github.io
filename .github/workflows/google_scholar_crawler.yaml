@@ -3,7 +3,8 @@ name: Refresh Google Scholar citations
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 8 * * *'
+    # Refresh daily at 08:27 UTC. Keep the last successful count on fetch errors.
+    - cron: '27 8 * * *'
   push:
     branches: [main, site-improvements]
     paths:
