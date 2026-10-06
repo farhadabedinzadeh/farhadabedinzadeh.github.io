@@ -1,7 +1,7 @@
 {
   "scholar_id": "rAgss7MAAAAJ",
   "source": "Google Scholar",
-  "citedby": 274,
+  "citedby": 275,
   "publications": {
     "rAgss7MAAAAJ:dhFuZR0502QC": {
       "title": "Enhancing Parkinson's disease severity assessment through voice-based wavelet scattering, optimized model selection, and weighted majority voting",
@@ -37,7 +37,7 @@
     },
     "rAgss7MAAAAJ:L8Ckcad2t8MC": {
       "title": "Hybrid deep transfer learning-based early diagnosis of autism spectrum disorder using scalogram representation of electroencephalography signals",
-      "num_citations": 14
+      "num_citations": 15
     },
     "rAgss7MAAAAJ:HDshCWvjkbEC": {
       "title": "Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabV3 Approach.",
@@ -72,5 +72,5 @@
       "num_citations": 2
     }
   },
-  "updated": "2026-10-04T22:48:39+00:00"
+  "updated": "2026-10-06T21:18:13+00:00"
 }
