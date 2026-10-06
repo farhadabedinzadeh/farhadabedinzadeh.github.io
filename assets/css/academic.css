@@ -24,3 +24,5 @@
 
 .research-visual{position:absolute;right:18px;bottom:16px;width:124px;height:auto;pointer-events:none}.research-methods>div:last-child{padding-right:134px;min-height:114px}
 @media(max-width:760px){.research-visual{width:98px;right:16px;bottom:12px}.research-methods>div:last-child{padding-right:112px;min-height:105px}}
+
+.research-main p:first-of-type{margin-bottom:3px}
