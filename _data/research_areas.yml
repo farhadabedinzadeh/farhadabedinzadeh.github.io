@@ -1,7 +1,7 @@
 - id: imaging
   title: Medical imaging
 - id: eeg
-  title: Computational neuroscience
+  title: Neurodevelopmental disorders
   description: Brain connectivity, EEG signal processing and AI for neurodevelopmental disorders, including ADHD and autism.
 - id: gait-speech
   title: Neurodegenerative disorders
