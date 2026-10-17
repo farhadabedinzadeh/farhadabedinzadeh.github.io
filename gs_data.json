@@ -1,7 +1,7 @@
 {
   "scholar_id": "rAgss7MAAAAJ",
   "source": "Google Scholar",
-  "citedby": 275,
+  "citedby": 277,
   "publications": {
     "rAgss7MAAAAJ:dhFuZR0502QC": {
       "title": "Enhancing Parkinson's disease severity assessment through voice-based wavelet scattering, optimized model selection, and weighted majority voting",
@@ -9,7 +9,7 @@
     },
     "rAgss7MAAAAJ:RHpTSmoSYBkC": {
       "title": "Improved ADHD diagnosis using EEG connectivity and deep learning through combining Pearson correlation coefficient and phase-locking value",
-      "num_citations": 38
+      "num_citations": 39
     },
     "rAgss7MAAAAJ:TQgYirikUcIC": {
       "title": "An efficient tool for Parkinson's disease detection and severity grading based on time-frequency and fuzzy features of cumulative gait signals through improved LSTM networks",
@@ -33,7 +33,7 @@
     },
     "rAgss7MAAAAJ:R3hNpaxXUhUC": {
       "title": "Simultaneous time-frequency analysis of gait signals of both legs in classifying neurodegenerative diseases",
-      "num_citations": 15
+      "num_citations": 16
     },
     "rAgss7MAAAAJ:L8Ckcad2t8MC": {
       "title": "Hybrid deep transfer learning-based early diagnosis of autism spectrum disorder using scalogram representation of electroencephalography signals",
@@ -72,5 +72,5 @@
       "num_citations": 2
     }
   },
-  "updated": "2026-10-07T15:38:29+00:00"
+  "updated": "2026-10-17T12:16:10+00:00"
 }
