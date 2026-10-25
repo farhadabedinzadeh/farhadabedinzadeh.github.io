@@ -1,15 +1,15 @@
 {
   "scholar_id": "rAgss7MAAAAJ",
   "source": "Google Scholar",
-  "citedby": 277,
+  "citedby": 279,
   "publications": {
+    "rAgss7MAAAAJ:RHpTSmoSYBkC": {
+      "title": "Improved ADHD diagnosis using EEG connectivity and deep learning through combining Pearson correlation coefficient and phase-locking value",
+      "num_citations": 40
+    },
     "rAgss7MAAAAJ:dhFuZR0502QC": {
       "title": "Enhancing Parkinson's disease severity assessment through voice-based wavelet scattering, optimized model selection, and weighted majority voting",
       "num_citations": 40
-    },
-    "rAgss7MAAAAJ:RHpTSmoSYBkC": {
-      "title": "Improved ADHD diagnosis using EEG connectivity and deep learning through combining Pearson correlation coefficient and phase-locking value",
-      "num_citations": 39
     },
     "rAgss7MAAAAJ:TQgYirikUcIC": {
       "title": "An efficient tool for Parkinson's disease detection and severity grading based on time-frequency and fuzzy features of cumulative gait signals through improved LSTM networks",
@@ -17,7 +17,7 @@
     },
     "rAgss7MAAAAJ:TFP_iSt0sucC": {
       "title": "Crude oil price forecasting using K-means clustering and LSTM model enhanced by dense-sparse-dense strategy",
-      "num_citations": 24
+      "num_citations": 25
     },
     "rAgss7MAAAAJ:9ZlFYXVOiuMC": {
       "title": "Effectiveness of learning rate in dementia severity prediction using VGG16",
@@ -72,5 +72,5 @@
       "num_citations": 2
     }
   },
-  "updated": "2026-10-22T13:55:27+00:00"
+  "updated": "2026-10-25T13:14:47+00:00"
 }
