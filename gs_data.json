@@ -1,19 +1,19 @@
 {
   "scholar_id": "rAgss7MAAAAJ",
   "source": "Google Scholar",
-  "citedby": 279,
+  "citedby": 285,
   "publications": {
-    "rAgss7MAAAAJ:RHpTSmoSYBkC": {
-      "title": "Improved ADHD diagnosis using EEG connectivity and deep learning through combining Pearson correlation coefficient and phase-locking value",
-      "num_citations": 40
-    },
     "rAgss7MAAAAJ:dhFuZR0502QC": {
       "title": "Enhancing Parkinson's disease severity assessment through voice-based wavelet scattering, optimized model selection, and weighted majority voting",
-      "num_citations": 40
+      "num_citations": 42
+    },
+    "rAgss7MAAAAJ:RHpTSmoSYBkC": {
+      "title": "Improved ADHD diagnosis using EEG connectivity and deep learning through combining Pearson correlation coefficient and phase-locking value",
+      "num_citations": 41
     },
     "rAgss7MAAAAJ:TQgYirikUcIC": {
       "title": "An efficient tool for Parkinson's disease detection and severity grading based on time-frequency and fuzzy features of cumulative gait signals through improved LSTM networks",
-      "num_citations": 38
+      "num_citations": 39
     },
     "rAgss7MAAAAJ:TFP_iSt0sucC": {
       "title": "Crude oil price forecasting using K-means clustering and LSTM model enhanced by dense-sparse-dense strategy",
@@ -31,13 +31,13 @@
       "title": "Enhancing multi-class diabetic retinopathy detection using tuned hyper-parameters and modified deep transfer learning",
       "num_citations": 18
     },
+    "rAgss7MAAAAJ:L8Ckcad2t8MC": {
+      "title": "Hybrid deep transfer learning-based early diagnosis of autism spectrum disorder using scalogram representation of electroencephalography signals",
+      "num_citations": 17
+    },
     "rAgss7MAAAAJ:R3hNpaxXUhUC": {
       "title": "Simultaneous time-frequency analysis of gait signals of both legs in classifying neurodegenerative diseases",
       "num_citations": 16
-    },
-    "rAgss7MAAAAJ:L8Ckcad2t8MC": {
-      "title": "Hybrid deep transfer learning-based early diagnosis of autism spectrum disorder using scalogram representation of electroencephalography signals",
-      "num_citations": 15
     },
     "rAgss7MAAAAJ:HDshCWvjkbEC": {
       "title": "Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabV3 Approach.",
@@ -72,5 +72,5 @@
       "num_citations": 2
     }
   },
-  "updated": "2026-10-25T13:14:47+00:00"
+  "updated": "2026-11-09T18:56:16+00:00"
 }
