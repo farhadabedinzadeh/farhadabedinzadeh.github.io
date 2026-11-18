@@ -1,7 +1,7 @@
 {
   "scholar_id": "rAgss7MAAAAJ",
   "source": "Google Scholar",
-  "citedby": 285,
+  "citedby": 288,
   "publications": {
     "rAgss7MAAAAJ:dhFuZR0502QC": {
       "title": "Enhancing Parkinson's disease severity assessment through voice-based wavelet scattering, optimized model selection, and weighted majority voting",
@@ -17,7 +17,7 @@
     },
     "rAgss7MAAAAJ:TFP_iSt0sucC": {
       "title": "Crude oil price forecasting using K-means clustering and LSTM model enhanced by dense-sparse-dense strategy",
-      "num_citations": 25
+      "num_citations": 26
     },
     "rAgss7MAAAAJ:9ZlFYXVOiuMC": {
       "title": "Effectiveness of learning rate in dementia severity prediction using VGG16",
@@ -31,13 +31,13 @@
       "title": "Enhancing multi-class diabetic retinopathy detection using tuned hyper-parameters and modified deep transfer learning",
       "num_citations": 18
     },
+    "rAgss7MAAAAJ:R3hNpaxXUhUC": {
+      "title": "Simultaneous time-frequency analysis of gait signals of both legs in classifying neurodegenerative diseases",
+      "num_citations": 17
+    },
     "rAgss7MAAAAJ:L8Ckcad2t8MC": {
       "title": "Hybrid deep transfer learning-based early diagnosis of autism spectrum disorder using scalogram representation of electroencephalography signals",
       "num_citations": 17
-    },
-    "rAgss7MAAAAJ:R3hNpaxXUhUC": {
-      "title": "Simultaneous time-frequency analysis of gait signals of both legs in classifying neurodegenerative diseases",
-      "num_citations": 16
     },
     "rAgss7MAAAAJ:HDshCWvjkbEC": {
       "title": "Deep Learning-Based Brain Tumor Segmentation in MRI Images: A MobileNetV2-DeepLabV3 Approach.",
@@ -53,7 +53,7 @@
     },
     "rAgss7MAAAAJ:_Qo2XoVZTnwC": {
       "title": "A deep time-frequency approach in automated diagnosis of neurodegenerative diseases using gait signals",
-      "num_citations": 6
+      "num_citations": 7
     },
     "rAgss7MAAAAJ:7PzlFSSx8tAC": {
       "title": "Auto-UFSTool: An Automatic Unsupervised Feature Selection Toolbox for MATLAB",
@@ -72,5 +72,5 @@
       "num_citations": 2
     }
   },
-  "updated": "2026-11-09T18:56:16+00:00"
+  "updated": "2026-11-18T17:21:57+00:00"
 }
